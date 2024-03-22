@@ -1,47 +1,18 @@
-image: ruby:2.7
+# To contribute improvements to CI/CD templates, please follow the Development guide at:
+# https://docs.gitlab.com/ee/development/cicd/templates.html
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Pages/HTML.gitlab-ci.yml
 
-cache:
-  paths:
-  - vendor
-
-test:
-  script:
-  - apt-get update -yqqq
-  - curl -sL https://deb.nodesource.com/setup_18.x | bash -
-  - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
-  - echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
-  - apt update
-  - apt-get install -y nodejs yarn
-  - export GEM_HOME=$PWD/gems
-  - export PATH=$PWD/gems/bin:$PATH
-  - gem install bundler
-  - gem install activesupport -v 6.1.7
-  - gem install bridgetown -N
-  - bundle install
-  - yarn install
-  - bin/bridgetown deploy
-  - bin/bridgetown clean
-  except:
-    - main
+# Full project: https://gitlab.com/pages/plain-html
+image: busybox
 
 pages:
+  stage: deploy
+  environment: production
   script:
-  - apt-get update -yqqq
-  - curl -sL https://deb.nodesource.com/setup_18.x | bash -
-  - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
-  - echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
-  - apt update
-  - apt-get install -y nodejs yarn
-  - export GEM_HOME=$PWD/gems
-  - export PATH=$PWD/gems/bin:$PATH
-  - gem install bundler
-  - gem install bridgetown -N
-  - bundle install
-  - yarn install
-  - bin/bridgetown deploy
-  - mv output public
+    - echo "The site will be deployed to $CI_PAGES_URL"
   artifacts:
     paths:
-    - public
-  only:
-  - main
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
