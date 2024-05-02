@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>EMLoT: Browse Troupes</title>
+    
+
+    
+<link rel="stylesheet" type="text/css" media="all" href="../../static/paul/c/a.css"/>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="../../static/paul/c/s.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="../../static/paul/c/p.css"/>
+<!--[if GTE IE 7]><link rel="stylesheet" media="screen, projection" type="text/css" href="/static/paul/c/compat_MSIE_7_0_gte.css" /><![endif]-->
+
+    
+<script type="text/javascript" src="../../static/paul/s/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery.overlabel.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../../static/js/jquery.blockUI2.31.js"></script>
+<script type="text/javascript" src="../../static/paul/s/cufon.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery.cluetip.min.js"></script>
+<script type="text/javascript" src="../../static/paul/f/agaramondpro.js"></script>
+
+<script type="text/javascript" src="../data/ks-troupes.js"></script>
+<script type="text/javascript" src="../data/ptvdata.js"></script>
+<script type="text/javascript" src="../data/facets-troupe.js"></script>
+<script type="text/javascript" src="../js/listdispl.js"></script>
+<script type="text/javascript" src="../js/browse.js"></script>
+
+<script type="text/javascript">
+	facetSetup("Troupe", getTroupesData(), 3);
+	setItemRelativeURL("../record/troupe/");
+	
+	function stringTogetherPatrons(plist){
+		if(plist.length == 0)return "...";
+		rslt = "";
+		sep = "";
+		plist.forEach(dta => {
+			rslt += sep+dta;
+			sep = "; "
+		})
+		return rslt;
+	}
+	
+	defineRowFunction(function (item){
+		let [id, recDate, title, text, patrons] = item;
+		if(title.trim()=="undefined" || title.trim()=="")return;
+		rslt = "<tr><td>"+displayItemTitle(id, title)
+					+"</td><td>"+stringTogetherPatrons(patrons)
+					+"</td><td>"+recDate+"</td></tr>\n";
+		return rslt;
+	});
+</script>
+
+  </head>
+  <body>
+    
+    <div id="gw">
+      <div id="hs">
+        <div id="bs">
+          <h3 title="Early Modern London Theatres"><a href="../../index.html">Early Modern London Theatres</a></h3>
+        </div>
+        <div id="ns">
+          <ul class="nvg">
+            
+
+
+<li class="child">
+	<a href="../../index.html">Home</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../introduction/index.html">Introduction</a>
+	
+</li>
+
+<li class="child ancestor">
+	<a href="../index.html">Search the database</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../project-information/index.html">Project Information</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../reed-team/index.html">REED Team</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../help/index.html">Help</a>
+	
+</li>
+
+          </ul>
+        </div>
+      </div>
+      <div id="ss">
+        
+        <ul class="nvl">
+          
+
+
+<li class="child sibling">
+	<a href="../keyword-search/index.html">Keyword Search</a>
+	
+</li>
+
+<li class="child selected">
+	<a href="index.html">Browse</a>
+	
+</li>
+
+        </ul>
+     </div>
+      <div id="cs">
+        
+
+        
+<div class="cg n2">
+  <div class="m">
+    <div class="c c1">
+      <div class="r2" id="results">
+        
+<!-- Column 1 start (right) = the results of a search-->
+
+
+
+<!-- hidden fields with useful data -->
+
+<input type="hidden" id="active_ordering" value="default" />
+<input type="hidden" id="refresh_facets" value="False" />
+<!-- end of hidden fields -->
+
+<div class="hds">
+  <h3 id="headingText"></h3>
+
+  <ul class="utl m2">
+  </ul>
+</div>
+
+<div class="tsb">
+  <br /><br />
+
+  <div class="tsp">
+    
+    
+    <div class="itp">
+      <h4 id="topPositionLabel"></h4>
+     <ul id="topbuttons">
+      </ul>
+    </div>
+    
+
+    <br />
+
+    
+    <table>
+ 	  <thead>     
+      	<tr>
+              <th>Name</th>
+              <th>Patron(s)</th>
+              <th>Event Dates</th>
+      	</tr>
+	  </thead>      
+	  <tbody id="rslts">
+	  </tbody>      
+    </table>
+    
+    
+    <br /><br />
+    <div class="itp">
+      <h4 id="bottomPositionLabel"></h4>
+      <ul id="bottombuttons">
+      </ul>
+      </ul>
+    </div>
+    
+    
+  </div>
+</div>
+
+<!-- Column 1 end -->
+
+      </div>
+    </div>
+  </div>
+  <div class="c c2" id="search">
+    
+<!-- Column 2 start (left) = the list of facets -->
+
+
+
+<div class="hds" id="searchtype">
+  
+  <h3>Search for:</h3>
+  
+
+  <form name="inf-space-type" action="#" id="inf-space-type">
+    <ul class="tsn2">
+      
+      
+      <li><input type="radio" id="event" name="inf-space-type-select" onclick="switchTo('index.html')" value="event" /><label for="event">Events</label> </li>
+      
+      
+      
+      <li><input type="radio" id="venue" name="inf-space-type-select" value="venue" onclick="switchTo('venues.html')" /><label for="venue">Venues</label></li>
+      
+      
+      
+      <li style="font-weight: bold;"><input type="radio" id="troupe" name="inf-space-type-select" value="troupe"  checked="checked" /><label for="troupe">Troupes</label></li>
+      
+      
+      
+      <li><input type="radio" id="people" name="inf-space-type-select" value="people" onclick="switchTo('people.html')" /><label for="people">People</label></li>
+      
+      
+      
+      <li><input type="radio" id="ltbrecord" name="inf-space-type-select" value="ltbrecord" onclick="switchTo('ltbrecords.html')" /><label for="ltbrecord">Transcription Records</label></li>
+      
+      
+      
+      <li><input type="radio" id="primarysource" name="inf-space-type-select" value="primarysource" onclick="switchTo('prisources.html')" /><label for="primarysource">Primary Sources</label></li>
+      
+      
+      
+      <li><input type="radio" id="secsource" name="inf-space-type-select" value="secsource" onclick="switchTo('secsources.html')" /><label for="secsource">Secondary Sources</label></li>
+      
+      
+    </ul>
+  </form>
+  <h3>Filter your search using one or more from the following terms:</h3>
+</div>
+
+<div id="midSearchHead" style="display:none">
+<div class="r1">
+<div class="hds">
+   <h3>Active Filters (<span id="filterCount">1</span>)</h3>
+   <ul class="utl m2">
+		<li class="i3"><a id="empty_controls" title="Remove all terms" href="javascript:restartFacets()"><b>Reset Search</b></a>
+		</li>
+   </ul>
+</div>
+<br />
+	<ul id="active_filters" class="nvs active_facets">
+	</ul>
+</div>
+  <h3>Choose more filters in order to narrow down your query further:</h3>
+</div>
+<form action="">
+  
+  <ul id="accordion" class="nvh m1">
+  
+    <!-- major section: Event & Person -->
+    <li class="u m0">
+      <h4 id="peoplegroup" class="to_collapse peoplegroup_tip">
+	    <a href="javascript:openCloseTopLevel(0)" style="color:inherit">Event &amp; Person
+        <span id="oc0" style="font-size: 9px; font-style:cursive;">&nbsp;click to open</span></a>
+      </h4> 
+
+<!-- contents of major section: Event & Person -->      
+      <ul id="i0" style="display:none;">  
+
+        <li id="eventtype" class="s6 ">
+          <h5><a id="oc0.0" onclick="openCloseFacet(this, 0, 0)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="eventtype_tip">Event type<span id="h0.0"></span></strong></h5>
+          <div id="i0.0" style="display:none;" class="g n2 peoplegroup__event type">
+          </div>
+        </li>
+        
+        <li id="eventdate" class="s6 ">
+          <h5><a id="oc0.1" onclick="openCloseFacet(this, 0, 1)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="eventdate_tip">Event date<span id="h0.1"></span></strong></h5>
+          <div id="i0.1" style="display:none;" class="g n2 peoplegroup__event date">
+         </div>
+        </li>
+        
+        <li id="personsurname" class="s6 ">
+          <h5><a id="oc0.2" onclick="openCloseFacet(this, 0, 2)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="personsurname_tip">Person surname<span id="h0.2"></span></strong></h5>
+          <div id="i0.2" style="display:none;" class="g n2 peoplegroup__person surname">
+          </div>
+        </li>
+        
+        <li id="personeventrole" class="s6 ">
+          <h5><a id="oc0.3" onclick="openCloseFacet(this, 0, 3)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="personeventrole_tip">Person event role<span id="h0.3"></span></strong></h5>
+          <div id="i0.3" style="display:none;" class="g n2 peoplegroup__person event role">
+          </div>
+        </li>
+        
+        <li id="persondate" class="s6 ">
+          <h5><a id="oc0.4" onclick="openCloseFacet(this, 0, 4)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="persondate_tip">Person date<span id="h0.4"></span></strong></h5>
+          <div id="i0.4" style="display:none;" class="g n2 peoplegroup__person date">
+          </div>
+        </li>
+        
+      </ul>
+    </li>
+        
+    <!-- major section: Troupe & Venue -->
+    
+    <li class="u m1">
+      <h4 id="troupegroup" class="to_collapse troupegroup_tip">
+	    <a href="javascript:openCloseTopLevel(1)" style="color:inherit">Troupe &amp; Venue
+        <span id="oc1" style="font-size: 9px; font-style:cursive;">&nbsp;click to open</span></a>
+      </h4> 
+      
+<!-- contents of major section: Troupe & Venue -->      
+      <ul id="i1" style="display:none;"> 
+        
+        <li id="troupename" class="s6 ">
+          <h5><a id="oc1.0" onclick="openCloseFacet(this, 1, 0)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="troupename_tip">Troupe name<span id="h1.0"></span></strong></h5>
+          <div id="i1.0" style="display:none;" class="g n2 troupegroup__troupe name">
+          </div>
+        </li>
+        
+        <li id="troupetype" class="s6 ">
+          <h5><a id="oc1.1" onclick="openCloseFacet(this, 1, 1)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="troupetype_tip">Troupe type<span id="h1.1"></span></strong></h5>
+          <div id="i1.1" style="display:none;" class="g n2 troupegroup__troupe type">
+          </div>
+        </li>
+        
+        <li id="troupecountry" class="s6 ">
+          <h5><a id="oc1.2" onclick="openCloseFacet(this, 1, 2)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="troupecountry_tip">Troupe country of origin<span id="h1.2"></span></strong></h5>
+          <div id="i1.2" style="display:none;" class="g n2 troupegroup__troupe country of origin">
+          </div>
+        </li>
+        
+        <li id="troupedate" class="s6 ">
+          <h5><a id="oc1.3" onclick="openCloseFacet(this, 1, 3)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="troupedate_tip">Troupe date<span id="h1.3"></span></strong></h5>
+          <div id="i1.3" style="display:none;" class="g n2 troupegroup__troupe date">
+         </div>
+        </li>
+        
+        <li id="venuename" class="s6 ">
+          <h5><a id="oc1.4" onclick="openCloseFacet(this, 1, 4)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="venuename_tip">Venue name<span id="h1.4"></span></strong></h5>
+          <div id="i1.4" style="display:none;" class="g n2 troupegroup__venue name">
+          </div>
+        </li>
+        
+        <li id="venuelocale" class="s6 ">
+          <h5><a id="oc1.5" onclick="openCloseFacet(this, 1, 5)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="venuelocale_tip">Venue locale<span id="h1.5"></span></strong></h5>
+          <div id="i1.5" style="display:none;" class="g n2 troupegroup__venue locale">
+          </div>
+        </li>
+
+        <li id="venuedate" class="s6 ">
+          <h5><a id="oc1.6" onclick="openCloseFacet(this, 1, 6)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="venuedate_tip">Venue date<span id="h1.6"></span></strong></h5>
+          <div id="i1.6" style="display:none;" class="g n2 troupegroup__venue date">
+          </div>
+        </li>
+        
+      </ul>
+    </li>      
+
+<!-- major section: Citation -->      
+    
+    <li class="u m2">
+      <h4 id="citationgroup" class="to_collapse citationgroup_tip">
+	  	<a href="javascript:openCloseTopLevel(2)" style="color:inherit">Citation
+        <span id="oc2" style="font-size: 9px; font-style:cursive;">&nbsp;click to open</span></a>
+      </h4> 
+      
+<!-- contents of major section: Citation -->      
+      <ul id="i2" style="display:none;">        
+        
+        <li id="citationtype" class="s6 ">
+          <h5><a id="oc2.0" onclick="openCloseFacet(this, 2, 0)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="citationtype_tip">Citation type<span id="h2.0"></span></strong></h5>
+          <div id="i2.0" style="display:none;" class="g n2 citationgroup__citation type">
+          </div>
+        </li>
+        
+        <li id="primaryauthortype" class="s6 ">
+          <h5><a id="oc2.1" onclick="openCloseFacet(this, 2, 1)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="primaryauthortype_tip">Primary author type<span id="h2.1"></span></strong></h5>
+          <div id="i2.1" style="display:none;" class="g n2 citationgroup__primary author type">
+        </div>
+        </li>
+        
+        <li id="secondaryauthortype" class="s6 ">
+          <h5><a id="oc2.2" onclick="openCloseFacet(this, 2, 2)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="secondaryauthortype_tip">Secondary author type<span id="h2.2"></span></strong></h5>
+          <div id="i2.2" style="display:none;" class="g n2 citationgroup__secondary author type">
+          </div>
+        </li>
+        
+        <li id="authorname" class="s6 ">
+          <h5><a id="oc2.3" onclick="openCloseFacet(this, 2, 3)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="authorname_tip">Author name<span id="h2.3"></span></strong></h5>
+          <div id="i2.3" style="display:none;" class="g n2 citationgroup__author name">
+          </div>
+        </li>
+        
+        <li id="publisher" class="s6 ">
+          <h5><a id="oc2.4" onclick="openCloseFacet(this, 2, 4)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="publisher_tip">Publisher<span id="h2.4"></span></strong></h5>
+          <div id="i2.4" style="display:none;" class="g n2 citationgroup__publisher">
+          </div>
+        </li>
+        
+        <li id="placepublication" class="s6 ">
+          <h5><a id="oc2.5" onclick="openCloseFacet(this, 2, 5)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="placepublication_tip">Place of publication<span id="h2.5"></span></strong></h5>
+          <div id="i2.5" style="display:none;" class="g n2 citationgroup__place of publication">
+          </div>
+        </li>
+        
+        <li id="repositories" class="s6 ">
+          <h5><a id="oc2.6" onclick="openCloseFacet(this, 2, 6)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="repositories_tip">Repositories<span id="h2.6"></span></strong></h5>
+          <div id="i2.6" style="display:none;" class="g n2 citationgroup__repositories">
+            
+          </div>
+        </li>
+        
+      </ul>
+    </li>
+
+<!-- major section: Document: Description -->      
+    
+    <li class="u m3">
+      <h4 id="documentgroup" class="to_collapse documentgroup_tip">
+	  	<a href="javascript:openCloseTopLevel(3)" style="color:inherit">Document: Description
+        <span id="oc3" style="font-size: 9px; font-style:cursive;">&nbsp;click to open</span></a>
+      </h4> 
+      
+<!-- contents of major section: Document: Description -->      
+      <ul id="i3" style="display:none;">        
+        
+        <li id="documenttype" class="s6 ">
+          <h5><a id="oc3.0" onclick="openCloseFacet(this, 3, 0)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="documenttype_tip">Document type<span id="h3.0"></span></strong></h5>
+          <div id="i3.0" style="display:none;" class="g n2 documentgroup__document type">
+          </div>
+        </li>
+        
+        <li id="documentclass" class="s6 ">
+          <h5><a id="oc3.1" onclick="openCloseFacet(this, 3, 1)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="documentclass_tip">Document class<span id="h3.1"></span></strong></h5>
+          <div id="i3.1" style="display:none;" class="g n2 documentgroup__document class">
+          </div>
+        </li>
+        
+        <li id="productionauspices" class="s6 ">
+          <h5><a id="oc3.2" onclick="openCloseFacet(this, 3, 2)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="productionauspices_tip">Production auspices<span id="h3.2"></span></strong></h5>
+          <div id="i3.2" style="display:none;" class="g n2 documentgroup__production auspices">
+          </div>
+        </li>
+        
+        <li id="countryoforigin" class="s6 ">
+          <h5><a id="oc3.3" onclick="openCloseFacet(this, 3, 3)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="countryoforigin_tip">Country of origin<span id="h3.3"></span></strong></h5>
+          <div id="i3.3" style="display:none;" class="g n2 documentgroup__country of origin">
+            
+          </div>
+        </li>
+        
+        <li id="forgeries" class="s6 ">
+          <h5><a id="oc3.4" onclick="openCloseFacet(this, 3, 4)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="forgeries_tip">Forgeries<span id="h3.4"></span></strong></h5>
+          <div id="i3.4" style="display:none;" class="g n2 documentgroup__forgeries">
+            
+          </div>
+        </li>
+        
+        <li id="prisourcedate" class="s6 ">
+          <h5><a id="oc3.5" onclick="openCloseFacet(this, 3, 5)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="prisourcedate_tip">Primary source date<span id="h3.5"></span></strong></h5>
+          <div id="i3.5" style="display:none;" class="g n2 documentgroup__primary source date">
+          </div>
+        </li>
+        
+        <li id="secsourcedate" class="s6 ">
+          <h5><a id="oc3.6" onclick="openCloseFacet(this, 3, 6)" title="Click to open facet panel" class="t9 m1 accordion_hook">Collapse</a><strong class="secsourcedate_tip">Secondary source date<span id="h3.6"></span></strong></h5>
+          <div id="i3.6" style="display:none;" class="g n2 documentgroup__secondary source date">
+            
+          </div>
+        </li>
+      </ul>
+    </li>
+    
+  </ul>  
+</form>
+
+
+<!-- Column 2 end -->
+
+  </div>
+</div>
+
+        
+      </div>
+      <div id="fs">
+        <ul>
+          <li class="i1"><a href="../../project-information/contact/index.html">Contacts</a></li>
+          <li><a href="../../help/index.html">Help</a></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>

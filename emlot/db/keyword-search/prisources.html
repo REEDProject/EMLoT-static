@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>EMLoT: Keyword Search: Primary Sources</title>
+    
+
+    
+<link rel="stylesheet" type="text/css" media="all" href="../../static/paul/c/a.css"/>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="../../static/paul/c/s.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="../../static/paul/c/p.css"/>
+<!--[if GTE IE 7]><link rel="stylesheet" media="screen, projection" type="text/css" href="/static/paul/c/compat_MSIE_7_0_gte.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="../../static/css/ui/ui.all.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="../../static/css/ui/ui.slider.css"/>
+
+    
+<script type="text/javascript" src="../../static/paul/s/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery.overlabel.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/cufon.min.js"></script>
+<script type="text/javascript" src="../../static/paul/s/jquery.cluetip.min.js"></script>
+<script type="text/javascript" src="../../static/paul/f/agaramondpro.js"></script>
+
+<script type="text/javascript" src="../../static/paul/s/c_search.js"></script>
+<script type="text/javascript" src="../../static/js/ui/ui.core.js"></script>
+<script type="text/javascript" src="../../static/js/ui/ui.slider.js"></script>
+
+<script type="text/javascript" src="../js/fuse.js"></script>
+<script type="text/javascript" src="../data/ks-prisources.js"></script>
+<script type="text/javascript" src="../data/ptvdata.js"></script>
+<script type="text/javascript" src="../js/listdispl.js"></script>
+<script type="text/javascript" src="../js/ksearch.js"></script>
+<script type="text/javascript">
+	setup("Primary Source", getPrimarySourceData(), 5, 4);
+	setItemRelativeURL("../record/document/");
+	
+	defineRowFunction(function (item){
+		let [id, recDate, date2, title, fullTitle, text, authors] = item;
+		if(title.trim()=="undefined" || title.trim()=="")title = "...";
+		if(fullTitle.trim()=="undefined" || fullTitle.trim()=="")fullTitle = "...";
+		rslt = "<tr><td>"+displayList(authors, personNames, personRelativeURL)
+					+"</td><td>"+displayItemTitle(id, title)
+					+"</td><td>"+fullTitle+"</td><td>"+recDate+"</td></tr>\n";
+		return rslt;
+	});
+</script>
+
+  </head>
+  <body>
+    
+    <div id="gw">
+      <div id="hs">
+        <div id="bs">
+          <h3 title="Early Modern London Theatres"><a href="../../index.html">Early Modern London Theatres</a></h3>
+        </div>
+        <div id="ns">
+          <ul class="nvg">
+            
+
+
+<li class="child">
+	<a href="../../index.html">Home</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../introduction/index.html">Introduction</a>
+	
+</li>
+
+<li class="child ancestor">
+	<a href="../index.html">Search the database</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../project-information/index.html">Project Information</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../reed-team/index.html">REED Team</a>
+	
+</li>
+
+<li class="child">
+	<a href="../../help/index.html">Help</a>
+	
+</li>
+
+          </ul>
+        </div>
+      </div>
+      <div id="ss">
+        
+        <ul class="nvl">
+          
+
+
+<li class="child selected">
+	<a href="index.html">Keyword Search</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="../browse/index.html">Browse</a>
+	
+</li>
+        </ul>
+        
+        
+      </div>
+      <div id="cs">
+        
+
+        
+<div class="cg n2">
+  <div class="m">
+    <div class="c c1">
+      <div class="r2" id="results">
+        
+<!-- hidden fields with useful data -->
+
+<input type="hidden" id="active_result_type" value="event" />
+<!-- end of hidden fields -->
+
+<div class="hds">
+  <h3 id="headingText"></h3>
+  <ul class="utl m2">
+    
+  </ul>
+</div>
+
+<div class="tsb">
+
+  <div id="results_div" class="tsp">
+    <div class="itp">
+      <h4 id="topPositionLabel"></h4>
+     <ul id="topbuttons">
+      </ul>
+    </div>
+    <table>
+ 		<thead>
+			<tr>
+              <th>Author(s)</th>
+              <th>Title</th>
+              <th>Full Title</th>
+              <th>Date</th>
+      		</tr>
+		</thead>      
+		<tbody id="rslts">
+		</tbody>      
+      
+	    </table>
+    <div class="itp">
+      <h4 id="bottomPositionLabel"></h4>
+      <ul id="bottombuttons">
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+  <div class="c c2" id="search">
+    
+<h3>Keyword Search</h3>
+<form id="search_form" action="javascript:doquerying()" class="fms">
+  <fieldset class="i1">
+    <label for="bs_input">
+      
+      Enter search terms
+      
+    </label>
+    <input id="bs_input" type="text" name="query" />
+    <button type="submit">Go</button>
+    <button id="reset_search" onclick="resetks()">Reset</button>
+  </fieldset>
+
+  <fieldset class="i2">
+    <h4>Search for:</h4>
+    <ul>
+      
+      <li>
+        <input id="bs_event" type="radio" name="basic_search_type" value="event" onclick="switchTo('index.html')"/>
+        <label for="bs_event" id="bs_event_h">Events</label>
+      </li>
+      
+      <li>
+        <input id="bs_venue" type="radio" name="basic_search_type" value="venue" onclick="switchTo('venues.html')" />
+        <label for="bs_venue" id="bs_venue_h">Venues</label>
+      </li>
+      
+      <li>
+        <input id="bs_troupe" type="radio" name="basic_search_type" value="troupe" onclick="switchTo('troupes.html')" />
+        <label for="bs_troupe" id="bs_troupe_h">Troupes</label>
+      </li>
+      
+      <li>
+        <input id="bs_people" type="radio" name="basic_search_type" value="people" onclick="switchTo('people.html')" />
+        <label for="bs_people" id="bs_people_h">People</label>
+      </li>
+      
+      <li>
+        <input id="bs_primarysource" type="radio" name="basic_search_type" value="primarysource" checked="1" />
+        <label for="bs_primarysource" id="bs_primarysource_h">Primary Sources</label>
+      </li>
+      
+      <li>
+        <input id="bs_secsource" type="radio" name="basic_search_type" value="secsource" onclick="switchTo('secsources.html')" />
+        <label for="bs_secsource" id="bs_secsource_h">Secondary Sources</label>
+      </li>
+      
+    </ul>
+  </fieldset>
+
+</form>
+
+  </div>
+</div>
+
+        
+      </div>
+      <div id="fs">
+        <ul>
+          <li class="i1"><a href="../../project-information/contact/index.html">Contacts</a></li>
+          <li><a href="../../help/index.html">Help</a></li>
+        </ul>
+      </div>
+    </div>
+    
+	<script>
+		init();
+	</script>
+  </body>
+</html>
