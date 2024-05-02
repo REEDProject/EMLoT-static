@@ -14,20 +14,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        2697,
-        "57 n4",
-        1518,
-        "\"Neere the Playe Howse\": The Swan Theater and Community Blight",
-        2599,
-        "Paris Garden inhabitants may not rent out lodgings without official permission",
-        1519,
-        "Minet Library, London, Paris Garden Court Minute Book, VI/237",
-        [
-            281
-        ],
-        []
-    ],
-    [
         2698,
         "58-9",
         1518,
@@ -42,20 +28,6 @@ function getTranscriptionRecordData(){ return[
         [
             800
         ]
-    ],
-    [
-        2699,
-        "59",
-        1518,
-        "\"Neere the Playe Howse\": The Swan Theater and Community Blight",
-        2601,
-        "The millstream and pond neighbouring the prospective Swan site have a tendency to overflow",
-        1521,
-        "BL: Add MS 34112 A",
-        [
-            281
-        ],
-        []
     ],
     [
         2700,
@@ -100,34 +72,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9237,
-        "59",
-        1518,
-        "\"Neere the Playe Howse\": The Swan Theater and Community Blight",
-        7656,
-        "Tidal water from the millpond at Paris Garden often overflows the groundwork and floodgates",
-        4562,
-        "LMA: SKCS/022",
-        [
-            281
-        ],
-        []
-    ],
-    [
-        9238,
-        "59-60",
-        1518,
-        "\"Neere the Playe Howse\": The Swan Theater and Community Blight",
-        7657,
-        "The millpond at Paris Garden floods the surrounding houses, grounds and highways",
-        4563,
-        "LMA: SKCS/028",
-        [
-            281
-        ],
-        []
-    ],
-    [
         9239,
         "66",
         1518,
@@ -140,6 +84,38 @@ function getTranscriptionRecordData(){ return[
             281
         ],
         []
+    ],
+    [
+        9080,
+        "118",
+        4106,
+        "\"Our Will Shakespeare' and Lope de Vega: An Unrecorded Contemporary Document",
+        7537,
+        "An inscription on the flyleaf of Lope de Vega's 1613 'Rima' commends the Spanish poet as equal to Shakespeare",
+        4107,
+        "'Will Baker: Knowinge'",
+        [
+            1912
+        ],
+        [
+            476
+        ]
+    ],
+    [
+        9081,
+        "19",
+        4106,
+        "\"Our Will Shakespeare' and Lope de Vega: An Unrecorded Contemporary Document",
+        7537,
+        "An inscription on the flyleaf of Lope de Vega's 1613 'Rima' commends the Spanish poet as equal to Shakespeare",
+        4107,
+        "'Will Baker: Knowinge'",
+        [
+            1912
+        ],
+        [
+            476
+        ]
     ],
     [
         9729,
@@ -191,7 +167,7 @@ function getTranscriptionRecordData(){ return[
         7946,
         "Dr Thomas Ryves to the Bishop of Meath: The play of Gondomar plays twice daily, and draws unprecedented crowds",
         4740,
-        "Bodl, MS Rawlinson 89, f 42",
+        "Bodl: MS Rawlinson 89, f 42",
         [
             2712
         ],
@@ -325,7 +301,7 @@ function getTranscriptionRecordData(){ return[
         2719,
         "Henslowe lends money to Dekker and Chettle for a play called 'Troyeles & creasse daye'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             330
         ],
@@ -367,7 +343,7 @@ function getTranscriptionRecordData(){ return[
         7883,
         "Henslowe lends Dekker and Chettle a second sum for a play called 'Troyelles and Cresseda'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             330
         ],
@@ -381,7 +357,7 @@ function getTranscriptionRecordData(){ return[
         7884,
         "Henslowe pays Dekker and Chettle for a play called 'the tragede of Agamemnon' [Troilus and Cressida]",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             330
         ],
@@ -395,7 +371,7 @@ function getTranscriptionRecordData(){ return[
         7885,
         "Henslowe pays Dekker and Chettle the final sum for a play called 'Agamemnon' [Troilus and Cressida]",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             330
         ],
@@ -409,7 +385,7 @@ function getTranscriptionRecordData(){ return[
         7886,
         "Henslowe pays the Master of the Revels for licensing Dekker and Chettle's 'Agamemnon' [Troilus and Cressida]",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             330
         ],
@@ -692,34 +668,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        9324,
-        "86",
-        3880,
-        "A London Life in the Brazen Age: Francis Langley, 1548-1602",
-        7656,
-        "Tidal water from the millpond at Paris Garden often overflows the groundwork and floodgates",
-        4562,
-        "LMA: SKCS/022",
-        [
-            281
-        ],
-        []
-    ],
-    [
-        9325,
-        "86",
-        3880,
-        "A London Life in the Brazen Age: Francis Langley, 1548-1602",
-        2601,
-        "The millstream and pond neighbouring the prospective Swan site have a tendency to overflow",
-        1521,
-        "BL: Add MS 34112 A",
-        [
-            281
-        ],
-        []
-    ],
-    [
         9326,
         "88",
         3880,
@@ -932,26 +880,12 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9342,
-        "218",
-        3880,
-        "A London Life in the Brazen Age: Francis Langley, 1548-1602",
-        7733,
-        "Commissioners of the Sewers assess Francis Langley's share of maintenance at Paris Garden",
-        243,
-        "LMA: SKCS/018",
-        [
-            281
-        ],
-        []
-    ],
-    [
         9343,
         "218",
         3880,
         "A London Life in the Brazen Age: Francis Langley, 1548-1602",
         7734,
-        "Commissioners of the Sewers present Francis Langley with repairs to millpond ",
+        "Commissioners of the Sewers present Francis Langley with repairs to millpond",
         243,
         "LMA: SKCS/018",
         [
@@ -1613,7 +1547,7 @@ function getTranscriptionRecordData(){ return[
         6593,
         "Requests, King's Men vs Brend: The new lease agreement is settled",
         2818,
-        "TNA, REQ 1/160",
+        "TNA: REQ 1/160",
         [
             602
         ],
@@ -1655,7 +1589,21 @@ function getTranscriptionRecordData(){ return[
         6596,
         "Requests, King's Men vs Brend: The defendant will issue a new lease",
         2818,
-        "TNA, REQ 1/160",
+        "TNA: REQ 1/160",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6884,
+        "238",
+        2788,
+        "A New Lawsuit about the Globe",
+        6597,
+        "Requests, King's Men vs Brend: The defendant is to perform a decree",
+        2819,
+        "TNA: REQ 1/185",
         [
             602
         ],
@@ -1669,7 +1617,7 @@ function getTranscriptionRecordData(){ return[
         6598,
         "Requests, King's Men vs Brend: The commission is to be renewed",
         2820,
-        "TNA, REQ 2/617",
+        "TNA: REQ 2/617",
         [
             602
         ],
@@ -1683,7 +1631,7 @@ function getTranscriptionRecordData(){ return[
         6599,
         "Requests, King's Men vs Brend: The court issues orders for new lease",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -1697,7 +1645,7 @@ function getTranscriptionRecordData(){ return[
         6600,
         "Requests, King's Men vs Brend: The court orders a hearing",
         2822,
-        "TNA, REQ 1/64",
+        "TNA: REQ 1/64",
         [
             602
         ],
@@ -1711,7 +1659,7 @@ function getTranscriptionRecordData(){ return[
         6601,
         "Requests, King's Men vs Brend: The commission is 'sett over till to morrow'",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -1725,7 +1673,7 @@ function getTranscriptionRecordData(){ return[
         6602,
         "Requests, King's Men vs Brend: The date of the hearing is announced",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -1907,7 +1855,7 @@ function getTranscriptionRecordData(){ return[
         6615,
         "Requests, King's Men vs Brend: John Bell deposes",
         2833,
-        "TNA, REQ 1/135",
+        "TNA: REQ 1/135",
         [
             602
         ],
@@ -1949,7 +1897,7 @@ function getTranscriptionRecordData(){ return[
         6618,
         "Requests, King's Men vs Brend: The court orders the publication of the case proceedings",
         2836,
-        "TNA, REQ 1/61",
+        "TNA: REQ 1/61",
         [
             602
         ],
@@ -2208,21 +2156,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        2061,
-        "310",
-        3054,
-        "A Select Collection of Old Plays (1780)",
-        2013,
-        "According to a holograph note in an early edition of 'A Game at Chess,' the players claimed to have taken in \u00a31500 before the play was suppressed",
-        1274,
-        "National Art Library (V&A Museum): Dyce 25.D.42, A1r",
-        [
-            379,
-            647
-        ],
-        []
-    ],
-    [
         7290,
         "415",
         3054,
@@ -2390,6 +2323,23 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             256
+        ]
+    ],
+    [
+        7330,
+        "230",
+        3054,
+        "A Select Collection of Old Plays (1780)",
+        7026,
+        "Wilmot's 'Tancred and Gismond' was compiled and performed by the Gentlemen of the Inner Temple for the Queen",
+        711,
+        "Tancred and Gismund",
+        [
+            379,
+            647
+        ],
+        [
+            676
         ]
     ],
     [
@@ -2748,6 +2698,23 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             1493
+        ]
+    ],
+    [
+        7400,
+        "245",
+        3054,
+        "A Select Collection of Old Plays (1780)",
+        2326,
+        "The title-page of Dekker's Satiromastix claims the play was performed by the Chamberlain's Men and the Children of Paul's",
+        492,
+        "Satiromastix",
+        [
+            379,
+            647
+        ],
+        [
+            105
         ]
     ],
     [
@@ -4074,6 +4041,20 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        6972,
+        "172",
+        2874,
+        "Accessiones Histori\u00e6 Anhaltin\u00e6",
+        393,
+        "A German prince mentions four active theatres in London",
+        31,
+        "-No MS Reference-",
+        [
+            2456
+        ],
+        []
+    ],
+    [
         8722,
         "175",
         3778,
@@ -4236,6 +4217,20 @@ function getTranscriptionRecordData(){ return[
         "The Lords Admiral and Chamberlain ask the Privy Council to prevent a third company from playing",
         1578,
         "TNA: PC 2/23",
+        [
+            395
+        ],
+        []
+    ],
+    [
+        9786,
+        "214\u201315",
+        3778,
+        "Acts of the Privy Council of England",
+        209,
+        "Plays are to be censored by a committee",
+        120,
+        "TNA: PC 2/16",
         [
             395
         ],
@@ -4587,6 +4582,22 @@ function getTranscriptionRecordData(){ return[
             418,
             369,
             178
+        ]
+    ],
+    [
+        2395,
+        "60",
+        1369,
+        "An Account of the English Dramatick Poets",
+        2301,
+        "The Blind Beggar of Alexandria was performed by the Lord Admiral's Men",
+        1382,
+        "The Blind Beggar of Alexandria",
+        [
+            257
+        ],
+        [
+            263
         ]
     ],
     [
@@ -5080,20 +5091,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        6468,
-        "428",
-        2627,
-        "An Apology for the Believers in the Shakspeare-Papers",
-        3297,
-        "An epitaph on Richard Burbage celebrates him as a tragedian",
-        1845,
-        "BL: Sloane MS 1786",
-        [
-            558
-        ],
-        []
-    ],
-    [
         6469,
         "425",
         2627,
@@ -5116,6 +5113,20 @@ function getTranscriptionRecordData(){ return[
         "Augustine Phillips' will is registered",
         1917,
         "TNA: PROB 11/105/387",
+        [
+            558
+        ],
+        []
+    ],
+    [
+        6472,
+        "445-6",
+        2627,
+        "An Apology for the Believers in the Shakspeare-Papers",
+        295,
+        "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
+        175,
+        "TNA: C 66/1608",
         [
             558
         ],
@@ -5204,6 +5215,22 @@ function getTranscriptionRecordData(){ return[
             558
         ],
         []
+    ],
+    [
+        6491,
+        "499-500(l)",
+        2627,
+        "An Apology for the Believers in the Shakspeare-Papers",
+        3845,
+        "Secretary Conway responds to the Privy Council on the matter of Middleton's 'A Game at Chess'",
+        4738,
+        "TNA: SP 14/171, f 117",
+        [
+            558
+        ],
+        [
+            1614
+        ]
     ],
     [
         6492,
@@ -5687,6 +5714,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        8839,
+        "38",
+        3799,
+        "An Essay on the Learning of Shakespeare",
+        783,
+        "A 'Hamlet' is performed at the Theatre",
+        438,
+        "Wit's Misery",
+        [
+            1589
+        ],
+        [
+            82
+        ]
+    ],
+    [
         2187,
         "190",
         1328,
@@ -5732,6 +5775,22 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             681
+        ]
+    ],
+    [
+        2296,
+        "",
+        1328,
+        "An Historical Account of the Rise and Progress of the English Stage",
+        706,
+        "Passages in \"Tarltons Jests\" refer to incidents at the Bull",
+        411,
+        "Tarlton's Jest of a Pippin",
+        [
+            232
+        ],
+        [
+            18
         ]
     ],
     [
@@ -5862,7 +5921,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             209
         ],
@@ -5930,6 +5989,21 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9741,
+        "865",
+        4774,
+        "Appendix G: Contemporary References to the Play, 1624-63",
+        7953,
+        "Don Carlos Coloma writes to the King about 'A Game at Chess'",
+        4750,
+        "TNA: SP 94/31, f 132",
+        [
+            2760,
+            2761
+        ],
+        []
+    ],
+    [
         9748,
         "867",
         4774,
@@ -5938,6 +6012,21 @@ function getTranscriptionRecordData(){ return[
         "The King's Men act 'A Game at Chess' daily: Woolley to Trumbull",
         4745,
         "BL: Add MS 72329, no 135",
+        [
+            2760,
+            2761
+        ],
+        []
+    ],
+    [
+        9749,
+        "867-8",
+        4774,
+        "Appendix G: Contemporary References to the Play, 1624-63",
+        7949,
+        "John Holles attends 'A Game at Chess' at the Globe",
+        4746,
+        "University of Nottingham: Ne C 15405",
         [
             2760,
             2761
@@ -5973,6 +6062,23 @@ function getTranscriptionRecordData(){ return[
             2761
         ],
         []
+    ],
+    [
+        9752,
+        "869",
+        4774,
+        "Appendix G: Contemporary References to the Play, 1624-63",
+        7946,
+        "Dr Thomas Ryves to the Bishop of Meath: The play of Gondomar plays twice daily, and draws unprecedented crowds",
+        4740,
+        "Bodl: MS Rawlinson 89, f 42",
+        [
+            2760,
+            2761
+        ],
+        [
+            2713
+        ]
     ],
     [
         9754,
@@ -6284,7 +6390,7 @@ function getTranscriptionRecordData(){ return[
         2012,
         "Edward Alleyn enumerates charges for the Bear Garden and Fortune, and attends a play at the Red Bull",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             594
         ],
@@ -6299,34 +6405,6 @@ function getTranscriptionRecordData(){ return[
         "Sir Thomas Cawarden responds to a complaint by the Blackfriars inhabitants that he has defaced the parish church",
         1056,
         "Folger: MS L.b.402",
-        [
-            159
-        ],
-        []
-    ],
-    [
-        1728,
-        "13",
-        1057,
-        "Blackfriars Records",
-        1691,
-        "Lord Cobham buys a mansion house on the Blackfriars estate",
-        1058,
-        "LM 1396, f 75b",
-        [
-            159
-        ],
-        []
-    ],
-    [
-        1729,
-        "8\u201312",
-        1057,
-        "Blackfriars Records",
-        1692,
-        "Thomas Cawarden's land grant prompts a survey of the Blackfriars property",
-        1059,
-        "LM 1396, f 49b",
         [
             159
         ],
@@ -6438,7 +6516,7 @@ function getTranscriptionRecordData(){ return[
         1701,
         "The dispute between Sir William More and Henry Poole over Blackfriars properties is resolved in arbitration",
         1067,
-        "Loseley MS 1396, f. 99 and sqq",
+        "SHC: LM 1396",
         [
             159
         ],
@@ -6467,20 +6545,6 @@ function getTranscriptionRecordData(){ return[
         "Sir William More leases one of the Blackfriars tenements to Rocco Bonetti",
         1069,
         "Folger: MS L.b.352",
-        [
-            159
-        ],
-        []
-    ],
-    [
-        1741,
-        "70\u20136",
-        1057,
-        "Blackfriars Records",
-        1704,
-        "Sir George More sells a tenement on the Blackfriars property to Cuthbert and Richard Burbage",
-        1070,
-        "SHC: Z/407/MSLb.357 (mfm)",
         [
             159
         ],
@@ -6557,20 +6621,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9777,
-        "70\u20136",
-        1057,
-        "Blackfriars Records",
-        1704,
-        "Sir George More sells a tenement on the Blackfriars property to Cuthbert and Richard Burbage",
-        4787,
-        "Close Roll, No. 1691 (43 Eliz., Pt. 14, m. 17\u201318)",
-        [
-            159
-        ],
-        []
-    ],
-    [
         9829,
         "41\u20135",
         1057,
@@ -6578,7 +6628,7 @@ function getTranscriptionRecordData(){ return[
         8031,
         "Sir William More delivers his second set of interrogatories in the dispute with Henry Poole over the Blackfriars properties",
         1067,
-        "Loseley MS 1396, f. 99 and sqq",
+        "SHC: LM 1396",
         [
             159
         ],
@@ -6592,7 +6642,7 @@ function getTranscriptionRecordData(){ return[
         8032,
         "Sir William More delivers his first set of interrogatories in the dispute with Henry Poole over the Blackfriars properties",
         1067,
-        "Loseley MS 1396, f. 99 and sqq",
+        "SHC: LM 1396",
         [
             159
         ],
@@ -6609,22 +6659,6 @@ function getTranscriptionRecordData(){ return[
         "Herbert, Sir Henry, Master of Revels. Office Book",
         [
             232
-        ],
-        [
-            681
-        ]
-    ],
-    [
-        7086,
-        "268",
-        2951,
-        "Bodl: MS Malone 156",
-        6798,
-        "Sir John Astley licenses 'Osmond the Great Turk' ",
-        39,
-        "Herbert, Sir Henry, Master of Revels. Office Book",
-        [
-            681
         ],
         [
             681
@@ -7107,6 +7141,36 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9693,
+        "343",
+        4742,
+        "Calendar of the Manuscripts of the Most Hon. the Marquis of Salisbury, K.G., &c. &c. &c. Preserved at Hatfield House, Hertfordshire",
+        7729,
+        "Richard Topcliffe reports to Cecil on 'the seditious play called The Isle of Dogs'",
+        4623,
+        "Hatfield House: Cecil Papers, 54/20",
+        [
+            398
+        ],
+        [
+            2388
+        ]
+    ],
+    [
+        9263,
+        "51-2",
+        4581,
+        "Catalogue of the Manuscripts and Muniments of Alleyn's College of God's Gift at Dulwich",
+        471,
+        "Prince Charles' Men leave the Hope and ask Alleyn for a loan",
+        4674,
+        "DC: MS 1",
+        [
+            1835
+        ],
+        []
+    ],
+    [
         9264,
         "65",
         4581,
@@ -7114,7 +7178,7 @@ function getTranscriptionRecordData(){ return[
         7558,
         "Henslowe to Alleyn: Ralph Bowes is ill, and plans to acquire the Mastership of the Queen's Games are in jeopardy",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7128,7 +7192,7 @@ function getTranscriptionRecordData(){ return[
         7551,
         "Henslowe and Alleyn pay the Master of the King's Game for permission to use Paris Garden for animal sports",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7142,7 +7206,7 @@ function getTranscriptionRecordData(){ return[
         7678,
         "Arthur Langworth reminds Edward Alleyn of 'a wey to helpe' after the death of Ralph Bowes",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7156,7 +7220,7 @@ function getTranscriptionRecordData(){ return[
         7559,
         "Dorington to Henslowe: Illness prevents him from mounting an exhibition for the Queen; Henslowe is to step in for him",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7170,7 +7234,7 @@ function getTranscriptionRecordData(){ return[
         7561,
         "Sir William Stuart acquits the Mastership of the King's Game to Henslowe and Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7184,7 +7248,7 @@ function getTranscriptionRecordData(){ return[
         7679,
         "James I issues patent for Mastership of the Royal Game to Philip Henslowe and Edward Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7198,7 +7262,7 @@ function getTranscriptionRecordData(){ return[
         7564,
         "Henslowe and Alleyn contract with Peter Street for the rebuilding of Paris Garden",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7212,7 +7276,7 @@ function getTranscriptionRecordData(){ return[
         7680,
         "Henslowe and Alleyn deputize Christopher Goffe to acquire more dogs for baiting",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7226,7 +7290,21 @@ function getTranscriptionRecordData(){ return[
         7681,
         "A letter from Henslowe and Alleyn records charges 'for the Beares meate'",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
+        [
+            1835
+        ],
+        []
+    ],
+    [
+        9273,
+        "",
+        4581,
+        "Catalogue of the Manuscripts and Muniments of Alleyn's College of God's Gift at Dulwich",
+        7563,
+        "Henslowe and Alleyn, in their role as Masters of the King's Game, complain to James I of the costs associated with the office, and ask for more pay",
+        4481,
+        "DC: MS 2",
         [
             1835
         ],
@@ -7240,7 +7318,7 @@ function getTranscriptionRecordData(){ return[
         7553,
         "Henry Middleton writes to Alleyn on behalf of Henry Ashmore, requesting the return of a bear",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7254,7 +7332,7 @@ function getTranscriptionRecordData(){ return[
         7683,
         "Thomas Bowker writes to Edward Alleyn for a 'mastife whelpe'",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7268,7 +7346,7 @@ function getTranscriptionRecordData(){ return[
         7685,
         "Earl of Bedford requests the return of mastiffs from Edward Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7282,7 +7360,7 @@ function getTranscriptionRecordData(){ return[
         7686,
         "Thomas Morris and William Grove sell 'one male lyon' to William Peadle",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7296,7 +7374,7 @@ function getTranscriptionRecordData(){ return[
         7689,
         "Henslowe and Alleyn petition King James to recover baiting losses after visit from Duc de Bouillon",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7310,7 +7388,7 @@ function getTranscriptionRecordData(){ return[
         7690,
         "Justices of Cheshire charge local constables to assist Bear Garden deputies",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7324,7 +7402,7 @@ function getTranscriptionRecordData(){ return[
         7691,
         "George Brake writes to Philip Henslowe about the assault of his deputies in Chester",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7338,7 +7416,7 @@ function getTranscriptionRecordData(){ return[
         7554,
         "Thomas Radford is bound Deputy Master of the King's Game to Philip Henslowe and Edward Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7352,7 +7430,7 @@ function getTranscriptionRecordData(){ return[
         7692,
         "Philip Henslowe and Edward Alleyn petition the Earl of Suffolk for the arrest of assailants in 'the weste contry'",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7366,7 +7444,7 @@ function getTranscriptionRecordData(){ return[
         7687,
         " John Morgan and Richard Tyler receive commission to acquire animals for baiting",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7380,7 +7458,7 @@ function getTranscriptionRecordData(){ return[
         7693,
         "Lord Chamberlain requests that justices of the peace in Chester and Lancaster apprehend the assailants of Henslowe's deputies",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7394,7 +7472,7 @@ function getTranscriptionRecordData(){ return[
         7694,
         "Justices of the peace in Cheshire unable to pursue the assailants of Henslowe's deputies",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7408,7 +7486,7 @@ function getTranscriptionRecordData(){ return[
         7695,
         "Anthony Cooke defends himself against charges of opposing the taking up of animals by Beargarden deputies",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7422,7 +7500,7 @@ function getTranscriptionRecordData(){ return[
         7697,
         "Thomas Yonge writes to Edward Alleyn and Philip Henslowe about the commission to acquire baiting animals",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7436,7 +7514,7 @@ function getTranscriptionRecordData(){ return[
         7565,
         "Responding to a petition against him by Jacob Meade, Alleyn submits a counter-petition to the Lord Chamberlain",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7450,7 +7528,7 @@ function getTranscriptionRecordData(){ return[
         7698,
         "Edward Alleyn describes items of a dispute with Jacob Meade",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7464,7 +7542,7 @@ function getTranscriptionRecordData(){ return[
         7699,
         "John Nurse meets with Lord Chamberlain about baiting",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7478,7 +7556,7 @@ function getTranscriptionRecordData(){ return[
         7700,
         "Edward Alleyn petitions the Privy Council, Treasury for incomes, leases and fees related to the Mastership of the King's Game",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7492,7 +7570,7 @@ function getTranscriptionRecordData(){ return[
         7552,
         "Sir William Faunt writes to Edward Alleyn concerning bulls for Paris Garden",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7506,7 +7584,7 @@ function getTranscriptionRecordData(){ return[
         3790,
         "Advertisement for bear-baiting at the Bear Garden",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7520,7 +7598,7 @@ function getTranscriptionRecordData(){ return[
         7702,
         "William Faunt requests a bear cub from Edward Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -7534,7 +7612,7 @@ function getTranscriptionRecordData(){ return[
         7703,
         "Edward Alleyn records 'the comission was sate' at Beargarden",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7548,7 +7626,7 @@ function getTranscriptionRecordData(){ return[
         7704,
         "Edward Alleyn 'rec. rent att ye banksid and Fortune'",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7562,7 +7640,7 @@ function getTranscriptionRecordData(){ return[
         7705,
         "After a baiting at Greenwich, the King sends a 'young tyger' to the Beargarden",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7576,7 +7654,7 @@ function getTranscriptionRecordData(){ return[
         7706,
         "Edward Alleyn records that the 'Comission wase executed att ye beargarden'",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7590,7 +7668,7 @@ function getTranscriptionRecordData(){ return[
         7707,
         "Edward Alleyn goes to Westminster to hear a trial regarding 'Parish garden'",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7604,7 +7682,7 @@ function getTranscriptionRecordData(){ return[
         7708,
         "Edward Alleyn seals the lease at the Beargarden",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7618,7 +7696,7 @@ function getTranscriptionRecordData(){ return[
         7709,
         "Edward Alleyn baits before the King at Greenwich",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7632,7 +7710,7 @@ function getTranscriptionRecordData(){ return[
         7710,
         "Edward Alleyn baits before the King",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1835
         ],
@@ -7644,7 +7722,7 @@ function getTranscriptionRecordData(){ return[
         4581,
         "Catalogue of the Manuscripts and Muniments of Alleyn's College of God's Gift at Dulwich",
         7711,
-        "William Collins records fees for keepers at 'Parris garden' ",
+        "William Collins records fees for keepers at 'Parris garden'",
         4606,
         "DCA: MS 11",
         [
@@ -7744,7 +7822,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             1835
         ],
@@ -7786,7 +7864,7 @@ function getTranscriptionRecordData(){ return[
         7696,
         "Meredith Morgan asks Philip Henslowe to receive a wolf",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             1835
         ],
@@ -9427,7 +9505,9 @@ function getTranscriptionRecordData(){ return[
         "music at Paul's -- Duke of Stettin-Pomerania",
         31,
         "-No MS Reference-",
-        [],
+        [
+            3231
+        ],
         []
     ],
     [
@@ -9508,7 +9588,7 @@ function getTranscriptionRecordData(){ return[
         7759,
         "Henslowe records charges related to the maintenance of the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9522,7 +9602,7 @@ function getTranscriptionRecordData(){ return[
         7760,
         "Henslowe makes frequent payment to the office of Edmund Tilney",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9536,7 +9616,7 @@ function getTranscriptionRecordData(){ return[
         7556,
         "The Thames watermen petition the Lord Admiral to have the Rose reopened",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -9550,7 +9630,7 @@ function getTranscriptionRecordData(){ return[
         3857,
         "Francis Henslowe buys a share in the Queen's Men when they go on a provincial tour",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9562,7 +9642,7 @@ function getTranscriptionRecordData(){ return[
         3888,
         "Documents of the Rose Playhouse",
         7762,
-        "Privy Council issues a travel license to the Lord Strange's Men ",
+        "Privy Council issues a travel license to the Lord Strange's Men",
         4634,
         "TNA: PC 2/20, vol 11",
         [
@@ -9606,7 +9686,7 @@ function getTranscriptionRecordData(){ return[
         7764,
         "Henslowe pays bond to Tilney for maintenance of order at the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9620,7 +9700,7 @@ function getTranscriptionRecordData(){ return[
         7765,
         "Henslowe records charges related to the maintenance of the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9648,7 +9728,7 @@ function getTranscriptionRecordData(){ return[
         7766,
         "Henslowe lends money to players of the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9720,7 +9800,7 @@ function getTranscriptionRecordData(){ return[
         7767,
         "Henslowe records bonds with players of the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9762,7 +9842,7 @@ function getTranscriptionRecordData(){ return[
         7769,
         "Henslowe tallies expenses related to the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9776,7 +9856,7 @@ function getTranscriptionRecordData(){ return[
         7770,
         "Henslowe assumes the apprenticeship of James Bristow",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9790,21 +9870,7 @@ function getTranscriptionRecordData(){ return[
         7772,
         "Henslowe tallies expenses related to the Admiral's Men",
         2118,
-        "DCA: MS 7",
-        [
-            1720
-        ],
-        []
-    ],
-    [
-        9434,
-        "131-2",
-        3888,
-        "Documents of the Rose Playhouse",
-        7773,
-        "Privy Council restrains bearwards, players in statute against vagabonds",
-        4636,
-        "39 Elizabeth c.4",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9818,7 +9884,7 @@ function getTranscriptionRecordData(){ return[
         7774,
         "Henslowe records bonds with players of the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9832,7 +9898,7 @@ function getTranscriptionRecordData(){ return[
         7775,
         "Henslowe writes to Edward Alleyn about the acquisition of the Beargarden",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -9860,7 +9926,7 @@ function getTranscriptionRecordData(){ return[
         476,
         "The Earl of Nottingham writes the Justices of Middlesex to allow the building of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -9874,21 +9940,7 @@ function getTranscriptionRecordData(){ return[
         7776,
         "Henslowe records loans to Admiral's Men players and playwrights",
         2118,
-        "DCA: MS 7",
-        [
-            1720
-        ],
-        []
-    ],
-    [
-        9440,
-        "183-4",
-        3888,
-        "Documents of the Rose Playhouse",
-        225,
-        "The Privy Council stops construction of a new theatre",
-        367,
-        "TNA: PC 2/26",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9902,7 +9954,7 @@ function getTranscriptionRecordData(){ return[
         475,
         "The Privy council orders the Justices of Middlesex to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -9972,7 +10024,7 @@ function getTranscriptionRecordData(){ return[
         7777,
         "Robert Shaw sells 'The Four Sons of Aymon' to Henslowe and the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -9986,7 +10038,7 @@ function getTranscriptionRecordData(){ return[
         467,
         "Henslowe moves to renew the lease on the Rose property",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10000,7 +10052,7 @@ function getTranscriptionRecordData(){ return[
         7778,
         "Plays resume at the Rose under King's licence",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10014,7 +10066,7 @@ function getTranscriptionRecordData(){ return[
         473,
         "King's, Queen's and Prince's companies are allowed to perform at the Globe, Fortune and Curtain after Lent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -10028,7 +10080,7 @@ function getTranscriptionRecordData(){ return[
         474,
         "Joan Alleyn reports Robert Browne's death",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1720
         ],
@@ -10042,7 +10094,7 @@ function getTranscriptionRecordData(){ return[
         7779,
         "Henslowe records loans and payments to Worcester's Men players and playwrights",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10056,7 +10108,7 @@ function getTranscriptionRecordData(){ return[
         7768,
         "Henslowe loans William Bird one pound to pay for his arrest by Langley",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10084,7 +10136,7 @@ function getTranscriptionRecordData(){ return[
         7816,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10098,7 +10150,7 @@ function getTranscriptionRecordData(){ return[
         7817,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10112,7 +10164,7 @@ function getTranscriptionRecordData(){ return[
         7818,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10126,7 +10178,7 @@ function getTranscriptionRecordData(){ return[
         7819,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10140,7 +10192,7 @@ function getTranscriptionRecordData(){ return[
         7820,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10154,7 +10206,7 @@ function getTranscriptionRecordData(){ return[
         7821,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10168,7 +10220,7 @@ function getTranscriptionRecordData(){ return[
         7822,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10182,7 +10234,7 @@ function getTranscriptionRecordData(){ return[
         7823,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10196,7 +10248,7 @@ function getTranscriptionRecordData(){ return[
         7837,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10210,7 +10262,7 @@ function getTranscriptionRecordData(){ return[
         7838,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10224,7 +10276,7 @@ function getTranscriptionRecordData(){ return[
         7839,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10238,7 +10290,7 @@ function getTranscriptionRecordData(){ return[
         7840,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10252,7 +10304,7 @@ function getTranscriptionRecordData(){ return[
         7841,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10266,7 +10318,7 @@ function getTranscriptionRecordData(){ return[
         7842,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10280,7 +10332,7 @@ function getTranscriptionRecordData(){ return[
         7843,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10294,7 +10346,7 @@ function getTranscriptionRecordData(){ return[
         7844,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10308,7 +10360,7 @@ function getTranscriptionRecordData(){ return[
         7845,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10322,7 +10374,7 @@ function getTranscriptionRecordData(){ return[
         7846,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10336,7 +10388,7 @@ function getTranscriptionRecordData(){ return[
         7846,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10350,7 +10402,7 @@ function getTranscriptionRecordData(){ return[
         7847,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10364,7 +10416,7 @@ function getTranscriptionRecordData(){ return[
         7848,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10378,7 +10430,7 @@ function getTranscriptionRecordData(){ return[
         7850,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10392,21 +10444,7 @@ function getTranscriptionRecordData(){ return[
         7851,
         "Henslowe records loans to Admiral's Men players and playwrights",
         2118,
-        "DCA: MS 7",
-        [
-            1720
-        ],
-        []
-    ],
-    [
-        9552,
-        "102-3",
-        3888,
-        "Documents of the Rose Playhouse",
-        7852,
-        "Henslowe records loan repayments from Edward Alleyn",
-        2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10420,7 +10458,7 @@ function getTranscriptionRecordData(){ return[
         7853,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10450,7 +10488,7 @@ function getTranscriptionRecordData(){ return[
         7855,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10464,7 +10502,7 @@ function getTranscriptionRecordData(){ return[
         7856,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10478,7 +10516,7 @@ function getTranscriptionRecordData(){ return[
         7857,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10492,7 +10530,7 @@ function getTranscriptionRecordData(){ return[
         7858,
         "Henslowe records loans to William Bird",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10506,7 +10544,7 @@ function getTranscriptionRecordData(){ return[
         7859,
         "Henslowe records bonds with Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10520,7 +10558,21 @@ function getTranscriptionRecordData(){ return[
         7860,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
+        [
+            1720
+        ],
+        []
+    ],
+    [
+        9561,
+        "162",
+        3888,
+        "Documents of the Rose Playhouse",
+        7521,
+        "John Russell is charged with dishonesty, and removed from his position as gatherer at the Fortune",
+        4674,
+        "DC: MS 1",
         [
             1720
         ],
@@ -10534,7 +10586,21 @@ function getTranscriptionRecordData(){ return[
         7861,
         "Henslowe drafts contract for a 'couenante servante'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
+        [
+            1720
+        ],
+        []
+    ],
+    [
+        9563,
+        "169",
+        3888,
+        "Documents of the Rose Playhouse",
+        7799,
+        "Robert Shaw advises Philip Henslowe to commission a play",
+        4674,
+        "DC: MS 1",
         [
             1720
         ],
@@ -10548,7 +10614,7 @@ function getTranscriptionRecordData(){ return[
         7862,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
         ],
@@ -10562,9 +10628,51 @@ function getTranscriptionRecordData(){ return[
         7862,
         "Henslowe records loans to Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             1720
+        ],
+        []
+    ],
+    [
+        9733,
+        "160-1",
+        4771,
+        "Documents Relating to \"A Game at Chesse\"",
+        7973,
+        "Amerigo Salvetti reports on Middleton's 'A Game at Chess'",
+        4767,
+        "BL: Add MS 27962, C189b",
+        [
+            2759
+        ],
+        []
+    ],
+    [
+        9734,
+        "161",
+        4771,
+        "Documents Relating to \"A Game at Chesse\"",
+        7974,
+        "Amerigo Salvetti reports the censoring of 'A Game at Chess'",
+        4768,
+        "BL: Add MS 27962, C191a",
+        [
+            2759
+        ],
+        []
+    ],
+    [
+        9735,
+        "164-5",
+        4771,
+        "Documents Relating to \"A Game at Chesse\"",
+        7966,
+        "Lord Chamberlain reports on the King's wishes regarding 'A Game at Chess'",
+        4756,
+        "BL: Egerton MS 2623, f 28",
+        [
+            2759
         ],
         []
     ],
@@ -10827,20 +10935,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9723,
-        "211",
-        4744,
-        "Documents Relating to A Game at Chess",
-        2013,
-        "According to a holograph note in an early edition of 'A Game at Chess,' the players claimed to have taken in \u00a31500 before the play was suppressed",
-        1274,
-        "National Art Library (V&A Museum): Dyce 25.D.42, A1r",
-        [
-            2717
-        ],
-        []
-    ],
-    [
         9724,
         "211\u201312",
         4744,
@@ -10895,6 +10989,20 @@ function getTranscriptionRecordData(){ return[
         "TNA: SP 99/25",
         [
             2717
+        ],
+        []
+    ],
+    [
+        3053,
+        "277",
+        1706,
+        "Documents Relating to the Office of the Revels, in the Time of Queen Elizabeth",
+        2941,
+        "'Cutwell' is performed at the Bell Inn",
+        236,
+        "TNA: AO 3/907",
+        [
+            159
         ],
         []
     ],
@@ -11003,6 +11111,23 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        1873,
+        "158-9",
+        1172,
+        "Dramatic Records from the Lansdowne Manuscripts",
+        1836,
+        "The Lord Mayor of London writes to Burghley about the collapse of the Bear Garden",
+        1176,
+        "BL: Lansdowne MS 37",
+        [
+            473,
+            162
+        ],
+        [
+            800
+        ]
+    ],
+    [
         1874,
         "152\u20135",
         1172,
@@ -11011,21 +11136,6 @@ function getTranscriptionRecordData(){ return[
         "A 'brabble' over the Theatre erupts during dinner at the lord mayor's residence",
         345,
         "BL: Lansdowne MS 24/80",
-        [
-            473,
-            162
-        ],
-        []
-    ],
-    [
-        1878,
-        "169-70",
-        1172,
-        "Dramatic Records from the Lansdowne Manuscripts",
-        1841,
-        "Queen's Men petition the Privy Council for license to play within London ",
-        346,
-        "BL: Lansdowne MS 20",
         [
             473,
             162
@@ -11078,6 +11188,36 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        1817,
+        "284",
+        1134,
+        "Dramatic Records from the Patent Rolls: Company Licences",
+        7423,
+        "The former Queen Anne's Men's licence to play is extended",
+        1133,
+        "TNA: SO 3/7",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1818,
+        "284",
+        1134,
+        "Dramatic Records from the Patent Rolls: Company Licences",
+        1781,
+        "The former Queen Anne's Men are licensed to continue playing",
+        1133,
+        "TNA: SO 3/7",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
         1820,
         "277\u20139",
         1134,
@@ -11085,7 +11225,7 @@ function getTranscriptionRecordData(){ return[
         291,
         "Philip Rosseter secures a patent to build a new playhouse in the Blackfriars precinct",
         171,
-        "TNA: C 66/2075, part 20",
+        "TNA: C 66/2075, pt 20",
         [
             473,
             162
@@ -11145,7 +11285,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             473,
             162
@@ -11161,6 +11301,21 @@ function getTranscriptionRecordData(){ return[
         "King Charles grants the King's Men a renewed patent",
         1143,
         "TNA: C 66/2348, mb 19",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1830,
+        "275-7",
+        1134,
+        "Dramatic Records from the Patent Rolls: Company Licences",
+        1793,
+        "Palsgrave's Men receive a royal patent to perform at the Fortune and elsewhere",
+        1144,
+        "TNA: C 66/1967",
         [
             473,
             162
@@ -11280,7 +11435,7 @@ function getTranscriptionRecordData(){ return[
         1757,
         "The Privy Council orders Robert Goffe to bring Thomas Middleton's son before them",
         4747,
-        "TNA, PC2/32",
+        "TNA: PC 2/32",
         [
             473,
             162
@@ -11310,7 +11465,7 @@ function getTranscriptionRecordData(){ return[
         208,
         "The Privy Council writes to Secretary Conway on the matter of Middleton's 'A Game at Chess'",
         119,
-        "TNA, PC2/32, ff 424\u20135",
+        "TNA: PC 2/32, ff 424\u20135",
         [
             473,
             162
@@ -11338,7 +11493,7 @@ function getTranscriptionRecordData(){ return[
         1105,
         "Dramatic Records from the Privy Council Register, 1603-1642",
         1761,
-        "The privy council writes to the Lord Mayor regarding the order regulating traffic in the Blackfriars precinct",
+        "The privy council writes to the lord mayor regarding the order regulating traffic in the Blackfriars precinct",
         364,
         "TNA: PC 2/43, vol 9",
         [
@@ -11468,21 +11623,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        1407,
-        "148",
-        792,
-        "Dramatic Records in the Declared Accounts of the Treasurer of the Chamber, 1558-1642",
-        507,
-        "Royal messengers carry messages to Prince Charles' Men at the Curtain",
-        335,
-        "Bodl.: Eng. Misc. c.4",
-        [
-            144,
-            145
-        ],
-        []
-    ],
-    [
         1835,
         "98\u20139",
         1147,
@@ -11518,7 +11658,7 @@ function getTranscriptionRecordData(){ return[
         1147,
         "Dramatic Records of the City of London. The Remembrancia",
         1800,
-        "The Blackfriars inhabitants petition the Lord Mayor for help with the crowds around the playhouse",
+        "The Blackfriars inhabitants petition the lord mayor for help with the crowds around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -11533,7 +11673,7 @@ function getTranscriptionRecordData(){ return[
         1147,
         "Dramatic Records of the City of London. The Remembrancia",
         657,
-        "The officers of the Blackfriars precinct complain to the Lord Mayor about commotion around the playhouse",
+        "The officers of the Blackfriars precinct complain to the lord mayor about commotion around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -11633,6 +11773,21 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        1849,
+        "73",
+        1147,
+        "Dramatic Records of the City of London. The Remembrancia",
+        492,
+        "The Lord Chamberlain requests that his company be allowed to play at the Cross Keys",
+        3461,
+        "LMA: COL/RMD/PA/01/002",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
         1850,
         "73",
         1147,
@@ -11641,6 +11796,36 @@ function getTranscriptionRecordData(){ return[
         "The privy council orders theatres closed because of the plague",
         3461,
         "LMA: COL/RMD/PA/01/002",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1851,
+        "66",
+        1147,
+        "Dramatic Records of the City of London. The Remembrancia",
+        1814,
+        "Privy Council asks the Lord Mayor of London to allow the Queen's Men to perform in the city and liberties",
+        3456,
+        "LMA: COL/RMD/PA/01/001",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1853,
+        "67",
+        1147,
+        "Dramatic Records of the City of London. The Remembrancia",
+        1816,
+        "A correction to the order issued 28 November, limiting performances during plague to the Bull and Bell, and to certain days: plays may be performed any day except Sunday",
+        3456,
+        "LMA: COL/RMD/PA/01/001",
         [
             473,
             162
@@ -11714,6 +11899,36 @@ function getTranscriptionRecordData(){ return[
         "Dramatic Records of the City of London. The Remembrancia",
         496,
         "John David is allowed to play his provost's prize at the Theatre",
+        3456,
+        "LMA: COL/RMD/PA/01/001",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1863,
+        "56-7",
+        1147,
+        "Dramatic Records of the City of London. The Remembrancia",
+        1826,
+        "The Lord Mayor refuses to allow the Earl of Warwick's servant to play his fencing prize at the Bull",
+        3456,
+        "LMA: COL/RMD/PA/01/001",
+        [
+            473,
+            162
+        ],
+        []
+    ],
+    [
+        1864,
+        "55",
+        1147,
+        "Dramatic Records of the City of London. The Remembrancia",
+        1827,
+        "The Earl of Warwick requests that his servant be allowed to play a fencing prize at the Bull",
         3456,
         "LMA: COL/RMD/PA/01/001",
         [
@@ -11863,9 +12078,24 @@ function getTranscriptionRecordData(){ return[
         829,
         "Dramatic Records of the City of London: The Repertories, Journals, and Letter Books",
         1438,
-        "The City Remembrancer is to be paid for his efforts toward the restraint of the projected playhouse at Puddle Wharf",
+        "The city remembrancer is to be paid for his efforts toward the restraint of the projected playhouse at Puddle Wharf",
         885,
         "LMA: COL/CA/01/01/036",
+        [
+            473,
+            148
+        ],
+        []
+    ],
+    [
+        1721,
+        "314-5",
+        829,
+        "Dramatic Records of the City of London: The Repertories, Journals, and Letter Books",
+        485,
+        "The plague threatens: only the Bull and Bell may host plays, and only on Wednesdays, Saturdays, and holidays",
+        317,
+        "LMA: COL/CA/01/01/021",
         [
             473,
             148
@@ -12625,6 +12855,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        1637,
+        "408",
+        823,
+        "Dramatic Records: The Lord Chamberlain's Office",
+        1606,
+        "Blagrave and Beeston petition the Master of the Revels for the return of Stephen Hammerton",
+        1034,
+        "TNA: LC 5/183",
+        [
+            147,
+            1282,
+            473
+        ],
+        []
+    ],
+    [
         1638,
         "410",
         823,
@@ -12968,7 +13214,7 @@ function getTranscriptionRecordData(){ return[
         1660,
         "Lord Essex petitions the Stationers' Company on behalf of the King's Men to prevent the company's plays from being published",
         1030,
-        "TNA, LC5/135",
+        "TNA: LC5/135",
         [
             147,
             1282,
@@ -12985,6 +13231,22 @@ function getTranscriptionRecordData(){ return[
         "The Lord Chamberlain issues a warrant granting liveries to the King's Men",
         1046,
         "TNA: LC 5/134",
+        [
+            147,
+            1282,
+            473
+        ],
+        []
+    ],
+    [
+        1699,
+        "408",
+        823,
+        "Dramatic Records: The Lord Chamberlain's Office",
+        1606,
+        "Blagrave and Beeston petition the Master of the Revels for the return of Stephen Hammerton",
+        1034,
+        "TNA: LC 5/183",
         [
             147,
             1282,
@@ -13073,50 +13335,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9592,
-        "109",
-        4698,
-        "Dramatic References from the Scudamore Papers",
-        7879,
-        "The Lord Chamberlain hosts a play for the King and Queen at the Cockpit-at-Court",
-        4697,
-        "TNA: C 115/106, no 8402",
-        [
-            2539
-        ],
-        [
-            2538
-        ]
-    ],
-    [
-        9593,
-        "109",
-        4698,
-        "Dramatic References from the Scudamore Papers",
-        7880,
-        "Players of the Blackfriars answer to the High Commission regarding a performance of 'The Magnetique Lady'",
-        4699,
-        "TNA: C 115/M 35/8418",
-        [
-            2539
-        ],
-        []
-    ],
-    [
-        9594,
-        "109-10",
-        4698,
-        "Dramatic References from the Scudamore Papers",
-        7882,
-        "King Charles commends Walter Montague and Joseph Taylor following a court performance ",
-        4700,
-        "TNA: C 115/M35/8416",
-        [
-            2539
-        ],
-        []
-    ],
-    [
         812,
         "209-11",
         462,
@@ -13124,7 +13342,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             93
         ],
@@ -13168,7 +13386,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             93
         ],
@@ -13334,28 +13552,14 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9178,
-        "326",
-        3985,
-        "Edward Alleyn and Henslowe's Will",
-        7619,
-        "Chancery, John Henslowe vs Edward Alleyn et al: Edward Alleyn is delinquent in the payment of annuities to the widow of a man involved in the suit",
-        4528,
-        "Chancery, Bills and Decrees, Henslowe vs. Allen, Henslowe & Cole, C33/152 and 151 ",
-        [
-            1808
-        ],
-        []
-    ],
-    [
         9200,
         "158",
         4547,
         "Edward Alleyn, Actor and Benefactor, 1566-1626",
         7633,
-        "Edward Alleyn and Philip Henslowe 'take up' mastiffs for the Bear Garden from private owners ",
+        "Edward Alleyn and Philip Henslowe 'take up' mastiffs for the Bear Garden from private owners",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             2239
         ],
@@ -13397,21 +13601,7 @@ function getTranscriptionRecordData(){ return[
         416,
         "London Consistory, Greene vs Cristofer: Greene testifies on behalf of Mary Philips, gallery doorkeeper",
         257,
-        "LMA: DL/C/217",
-        [
-            372
-        ],
-        []
-    ],
-    [
-        3075,
-        "455",
-        1710,
-        "Elizabethan Actors II: E\u2013J",
-        7457,
-        "The St Botolph parish registers identify Thomas Goodale as a player",
-        1712,
-        "LMA: St Botolph Aldgate, Record Book G",
+        "LMA: DL/C/0217",
         [
             372
         ],
@@ -13521,7 +13711,7 @@ function getTranscriptionRecordData(){ return[
         26,
         "English Professional Theatre, 1530\u20131660",
         55,
-        "Spanish ambassador reports on 'A Game at Chess' controversy ",
+        "Spanish ambassador reports on 'A Game at Chess' controversy",
         33,
         "Spanish State Archives, Simancas, Registro de Cartas, Libro 375",
         [
@@ -13589,7 +13779,7 @@ function getTranscriptionRecordData(){ return[
         59,
         "A Globe audience members describes a performance of 'The Witches of Lancashire'",
         37,
-        "Somerset Record Office, Taunton, DD/PH 212/no.12",
+        "SRO, Taunton: DD/PH 212/no.12",
         [
             93,
             281,
@@ -13669,7 +13859,7 @@ function getTranscriptionRecordData(){ return[
         68,
         "Thomas Crosfield records theatres and actors of the five main London companies",
         46,
-        "Queen's College, Oxford, MS 390",
+        "Queen's College, Oxford: MS 390",
         [
             93,
             281,
@@ -14229,7 +14419,7 @@ function getTranscriptionRecordData(){ return[
         103,
         "John Chamberlain to Alice Carleton: The new Globe playhouse is reported to be the fairest 'that ever was in England'",
         69,
-        "TNA, SP 14/77, f 107",
+        "TNA: SP 14/77, f 107",
         [
             93,
             281,
@@ -15476,6 +15666,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        196,
+        "384",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        195,
+        "Requests, Burbage v Allen: Cuthbert Burbage swears an affidavit",
+        3802,
+        "TNA: REQ 1/121",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
         197,
         "621-2",
         26,
@@ -15483,7 +15689,7 @@ function getTranscriptionRecordData(){ return[
         6593,
         "Requests, King's Men vs Brend: The new lease agreement is settled",
         2818,
-        "TNA, REQ 1/160",
+        "TNA: REQ 1/160",
         [
             93,
             281,
@@ -15499,7 +15705,7 @@ function getTranscriptionRecordData(){ return[
         6599,
         "Requests, King's Men vs Brend: The court issues orders for new lease",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             93,
             281,
@@ -15677,7 +15883,7 @@ function getTranscriptionRecordData(){ return[
         208,
         "The Privy Council writes to Secretary Conway on the matter of Middleton's 'A Game at Chess'",
         119,
-        "TNA, PC2/32, ff 424\u20135",
+        "TNA: PC 2/32, ff 424\u20135",
         [
             93,
             281,
@@ -16061,7 +16267,7 @@ function getTranscriptionRecordData(){ return[
         242,
         "A man is assaulted at the Fortune",
         141,
-        "LMA, MJ/SR/0499/86",
+        "LMA: MJ/SR/0499/86",
         [
             93,
             281,
@@ -16527,7 +16733,7 @@ function getTranscriptionRecordData(){ return[
         291,
         "Philip Rosseter secures a patent to build a new playhouse in the Blackfriars precinct",
         171,
-        "TNA: C 66/2075, part 20",
+        "TNA: C 66/2075, pt 20",
         [
             93,
             281,
@@ -16591,7 +16797,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             93,
             281,
@@ -16607,7 +16813,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             93,
             281,
@@ -16656,6 +16862,22 @@ function getTranscriptionRecordData(){ return[
         "The Curtain has fallen into decay",
         178,
         "TNA: C 54/2075/17",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
+        301,
+        "407-8",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        300,
+        "William Longe sells the Curtain estate to Thomas Harberte",
+        179,
+        "TNA: C 54/1098",
         [
             93,
             281,
@@ -18008,6 +18230,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        391,
+        "297",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        2941,
+        "'Cutwell' is performed at the Bell Inn",
+        236,
+        "TNA: AO 3/907",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
         392,
         "317",
         26,
@@ -18063,7 +18301,7 @@ function getTranscriptionRecordData(){ return[
         400,
         "Edward Alleyn pays the tithe due for the Rose",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             93,
             281,
@@ -18207,7 +18445,7 @@ function getTranscriptionRecordData(){ return[
         410,
         "An apprentice threatens to riot unless remunerated for an injury sustained during a performance at the Red Bull",
         251,
-        "LMA: MJ/SR/0617/30",
+        "LMA: MJ/SR/0617",
         [
             93,
             281,
@@ -18239,7 +18477,7 @@ function getTranscriptionRecordData(){ return[
         412,
         "A purse is snatched at the Red Bull",
         253,
-        "LMA, MJ/SR/0519/53",
+        "LMA: MJ/SR/0519",
         [
             93,
             281,
@@ -18303,13 +18541,31 @@ function getTranscriptionRecordData(){ return[
         416,
         "London Consistory, Greene vs Cristofer: Greene testifies on behalf of Mary Philips, gallery doorkeeper",
         257,
-        "LMA: DL/C/217",
+        "LMA: DL/C/0217",
         [
             93,
             281,
             602
         ],
         []
+    ],
+    [
+        420,
+        "303-4",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        419,
+        "The Bull hosts plays despite the plague: Lady Anne Bacon",
+        260,
+        "Lambeth Palace Library: MS 650, f 187",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            3251
+        ]
     ],
     [
         421,
@@ -18319,7 +18575,7 @@ function getTranscriptionRecordData(){ return[
         420,
         "A petition is made to the Earl of Dorset concerning the lease of Salisbury Court",
         261,
-        "KAO, Maidstone: U2269/E136/1",
+        "KAO, Maidstone: U269/E136",
         [
             93,
             281,
@@ -18399,7 +18655,7 @@ function getTranscriptionRecordData(){ return[
         444,
         "George Wilson killed at Salisbury Court",
         279,
-        "LMA: 06538",
+        "LMA: P69/BRI/A/018/MS06547/002",
         [
             93,
             281,
@@ -18415,7 +18671,7 @@ function getTranscriptionRecordData(){ return[
         6553,
         "John Brayne dissatisfied with scaffolds built for the Red Lion; The Story of Sampson to be performed",
         280,
-        "LMA: 04329/1",
+        "LMA: CLC/L/CC/B/001/MS04329/001",
         [
             93,
             281,
@@ -18440,6 +18696,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        448,
+        "550",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        447,
+        "The St Dunstan in the West parish registers record the burial of Jeffrey Davies, 'servant to Mr Woodford'",
+        282,
+        "LMA: P69/DUN2/A",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
         449,
         "487",
         26,
@@ -18447,7 +18719,7 @@ function getTranscriptionRecordData(){ return[
         448,
         "Boar's Head converted to tenements",
         283,
-        "Folger, MS Z.c.22(23)",
+        "Folger: MS Z.c.22(23)",
         [
             93,
             281,
@@ -18559,7 +18831,7 @@ function getTranscriptionRecordData(){ return[
         455,
         "Alleyn leases shares to finance the rebuilding of the Fortune",
         290,
-        "DCA: Muniment Series 1, Group 58",
+        "DC: Muniment Series 1, Group 58",
         [
             93,
             281,
@@ -18607,7 +18879,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             93,
             281,
@@ -18623,7 +18895,7 @@ function getTranscriptionRecordData(){ return[
         460,
         "Alleyn and Henslowe draw up a contract for sharing Fortune profits with players; the contract is not executed",
         293,
-        "DCA: Muniment Series 1, Group 33",
+        "DC: Muniments, Series 1, Group 033",
         [
             93,
             281,
@@ -18639,7 +18911,7 @@ function getTranscriptionRecordData(){ return[
         460,
         "Alleyn and Henslowe draw up a contract for sharing Fortune profits with players; the contract is not executed",
         293,
-        "DCA: Muniment Series 1, Group 33",
+        "DC: Muniments, Series 1, Group 033",
         [
             93,
             281,
@@ -18656,6 +18928,22 @@ function getTranscriptionRecordData(){ return[
         "Alleyn purchases a lease on property to build the Fortune",
         294,
         "DCA: Muniment Series 1, Group 20",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
+        464,
+        "423-5",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        2668,
+        "Henslowe and Cholmley enter into a contract as partners in the Rose enterprise",
+        295,
+        "DCA: Muniment Series 1, Group 16",
         [
             93,
             281,
@@ -18703,7 +18991,7 @@ function getTranscriptionRecordData(){ return[
         2654,
         "Henslowe records expenses for work done to the playhouse",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18719,7 +19007,7 @@ function getTranscriptionRecordData(){ return[
         467,
         "Henslowe moves to renew the lease on the Rose property",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18735,7 +19023,7 @@ function getTranscriptionRecordData(){ return[
         468,
         "Henslowe lists plays performed by the Lord Admiral's and Chamberlain's men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18751,7 +19039,7 @@ function getTranscriptionRecordData(){ return[
         469,
         "Henslowe records expenses for work done to the playhouse",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18767,7 +19055,7 @@ function getTranscriptionRecordData(){ return[
         470,
         "The inhabitants of Finsbury petition the privy council to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18783,7 +19071,7 @@ function getTranscriptionRecordData(){ return[
         471,
         "Prince Charles' Men leave the Hope and ask Alleyn for a loan",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18799,7 +19087,7 @@ function getTranscriptionRecordData(){ return[
         472,
         "Lady Elizabeth's Men write articles of oppression against Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18815,7 +19103,7 @@ function getTranscriptionRecordData(){ return[
         473,
         "King's, Queen's and Prince's companies are allowed to perform at the Globe, Fortune and Curtain after Lent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18831,7 +19119,7 @@ function getTranscriptionRecordData(){ return[
         474,
         "Joan Alleyn reports Robert Browne's death",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18847,7 +19135,7 @@ function getTranscriptionRecordData(){ return[
         475,
         "The Privy council orders the Justices of Middlesex to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18863,7 +19151,7 @@ function getTranscriptionRecordData(){ return[
         476,
         "The Earl of Nottingham writes the Justices of Middlesex to allow the building of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18879,7 +19167,7 @@ function getTranscriptionRecordData(){ return[
         477,
         "Privy Council allows Strange's Men to return to the Rose from Newington Butts",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             93,
             281,
@@ -18895,7 +19183,7 @@ function getTranscriptionRecordData(){ return[
         479,
         "Henslowe records loan for Dekker's additions to 'Oldcastle'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18911,7 +19199,7 @@ function getTranscriptionRecordData(){ return[
         480,
         "Henslowe records performance receipts from the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18927,7 +19215,7 @@ function getTranscriptionRecordData(){ return[
         481,
         "The Lord Pembroke's Men begin playing at the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18943,7 +19231,7 @@ function getTranscriptionRecordData(){ return[
         7863,
         "Henslowe records performance receipts from the Rose and Newington Butts",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18959,7 +19247,7 @@ function getTranscriptionRecordData(){ return[
         483,
         "Henslowe lists plays performed at the new playhouse",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -18975,6 +19263,22 @@ function getTranscriptionRecordData(){ return[
         484,
         "Sebastian Westcott is found guilty of keeping plays",
         868,
+        "LMA: COL/CA/01/01/021",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
+        486,
+        "300",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        485,
+        "The plague threatens: only the Bull and Bell may host plays, and only on Wednesdays, Saturdays, and holidays",
+        317,
         "LMA: COL/CA/01/01/021",
         [
             93,
@@ -19054,6 +19358,22 @@ function getTranscriptionRecordData(){ return[
         "English Professional Theatre, 1530\u20131660",
         491,
         "The lord mayor of London asks Burghley to stop construction of a new theatre and close all existing theatres",
+        3461,
+        "LMA: COL/RMD/PA/01/002",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
+        493,
+        "304",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        492,
+        "The Lord Chamberlain requests that his company be allowed to play at the Cross Keys",
         3461,
         "LMA: COL/RMD/PA/01/002",
         [
@@ -19192,14 +19512,14 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        508,
-        "417",
+        510,
+        "296",
         26,
         "English Professional Theatre, 1530\u20131660",
-        507,
-        "Royal messengers carry messages to Prince Charles' Men at the Curtain",
-        335,
-        "Bodl.: Eng. Misc. c.4",
+        509,
+        "William Muckelowe play his provost's fencing prize at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
         [
             93,
             281,
@@ -19230,6 +19550,22 @@ function getTranscriptionRecordData(){ return[
         "English Professional Theatre, 1530\u20131660",
         511,
         "Edward Harvie plays his fencing provost's prize at the Theatre",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            93,
+            281,
+            602
+        ],
+        []
+    ],
+    [
+        513,
+        "296",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        512,
+        "Isaac Kennard plays his fencing provost's prize at the Bull",
         339,
         "BL: Sloane MS 2530",
         [
@@ -19683,7 +20019,7 @@ function getTranscriptionRecordData(){ return[
         26,
         "English Professional Theatre, 1530\u20131660",
         650,
-        "The Privy Council revokes the Blackfriars parking ban, as it has made the congestion worse",
+        "The privy council revokes the Blackfriars parking ban, as it has made the congestion worse",
         364,
         "TNA: PC 2/43, vol 9",
         [
@@ -19715,7 +20051,7 @@ function getTranscriptionRecordData(){ return[
         26,
         "English Professional Theatre, 1530\u20131660",
         3462,
-        "The Privy Council considers shutting down the Blackfriars as a means of reducing traffic in the area",
+        "The privy council considers shutting down the Blackfriars as a means of reducing traffic in the area",
         364,
         "TNA: PC 2/43, vol 9",
         [
@@ -19763,7 +20099,7 @@ function getTranscriptionRecordData(){ return[
         26,
         "English Professional Theatre, 1530\u20131660",
         1800,
-        "The Blackfriars inhabitants petition the Lord Mayor for help with the crowds around the playhouse",
+        "The Blackfriars inhabitants petition the lord mayor for help with the crowds around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -19779,7 +20115,7 @@ function getTranscriptionRecordData(){ return[
         26,
         "English Professional Theatre, 1530\u20131660",
         657,
-        "The officers of the Blackfriars precinct complain to the Lord Mayor about commotion around the playhouse",
+        "The officers of the Blackfriars precinct complain to the lord mayor about commotion around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -19797,7 +20133,7 @@ function getTranscriptionRecordData(){ return[
         658,
         "Ben Jonson's failed play may have fared better with a less discerning audience at the Fortune: Gill",
         1844,
-        "Bodl.: Ashmole 38",
+        "Bodl: Ashmole 38",
         [
             93,
             281,
@@ -20056,6 +20392,42 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        684,
+        "302",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        683,
+        "George Silver's \"Paradoxes of Defence\" refers to a fencing match at the Bel Savage",
+        390,
+        "Paradoxes of Defence",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            45
+        ]
+    ],
+    [
+        685,
+        "303",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        684,
+        "Prynne's \"Histriomastix\" refers to an incident at the Bel Savage",
+        391,
+        "Histriomastix",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            599
+        ]
+    ],
+    [
         686,
         "587",
         26,
@@ -20232,6 +20604,24 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        700,
+        "297",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        699,
+        "Gascoigne derides the kinds of plays performed at the Bel Savage",
+        405,
+        "The Glass of Government",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            55
+        ]
+    ],
+    [
         701,
         "337",
         26,
@@ -20322,6 +20712,24 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        707,
+        "",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        706,
+        "Passages in \"Tarltons Jests\" refer to incidents at the Bull",
+        411,
+        "Tarlton's Jest of a Pippin",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            18
+        ]
+    ],
+    [
         708,
         "375",
         26,
@@ -20377,6 +20785,25 @@ function getTranscriptionRecordData(){ return[
             9,
             1284,
             658
+        ]
+    ],
+    [
+        713,
+        "303",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        712,
+        "A literary translator alludes to the less-than-literary quality of plays performed at the Bull",
+        414,
+        "To the Gentlemen Readers",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            62,
+            63
         ]
     ],
     [
@@ -20543,6 +20970,24 @@ function getTranscriptionRecordData(){ return[
         [
             105,
             32
+        ]
+    ],
+    [
+        725,
+        "298",
+        26,
+        "English Professional Theatre, 1530\u20131660",
+        4077,
+        "An English-Italian phrase book uses the Bull as an example of a theatrical venue",
+        424,
+        "First Fruits",
+        [
+            93,
+            281,
+            602
+        ],
+        [
+            70
         ]
     ],
     [
@@ -22843,7 +23288,7 @@ function getTranscriptionRecordData(){ return[
         7812,
         "Henslowe lends money to Richard Perkins to play in the country",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             93,
             281,
@@ -22980,21 +23425,21 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             203
         ],
         []
     ],
     [
-        9578,
-        "11",
+        9577,
+        "5",
         4688,
         "Grocers, Goldsmiths, and Drapers: Freemen and Apprentices in the Elizabethan Theater",
-        7873,
-        "William Trigge petitions for freedom from apprenticeship as 'Stageplayer'",
-        4691,
-        "Corporation of London Record Office, Mayor's Court Original Bills, MC1-53",
+        7871,
+        "Chancery, de Caine vs Wintershall: Ellis Worth deposes",
+        4689,
+        "TNA: C 24/785/53",
         [
             2530
         ],
@@ -23040,7 +23485,7 @@ function getTranscriptionRecordData(){ return[
         460,
         "Alleyn and Henslowe draw up a contract for sharing Fortune profits with players; the contract is not executed",
         293,
-        "DCA: Muniment Series 1, Group 33",
+        "DC: Muniments, Series 1, Group 033",
         [
             323
         ],
@@ -23082,7 +23527,7 @@ function getTranscriptionRecordData(){ return[
         470,
         "The inhabitants of Finsbury petition the privy council to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23096,7 +23541,7 @@ function getTranscriptionRecordData(){ return[
         475,
         "The Privy council orders the Justices of Middlesex to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23110,7 +23555,7 @@ function getTranscriptionRecordData(){ return[
         476,
         "The Earl of Nottingham writes the Justices of Middlesex to allow the building of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23180,7 +23625,7 @@ function getTranscriptionRecordData(){ return[
         7436,
         "Robert Daborne solicits payment from Philip Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23194,7 +23639,7 @@ function getTranscriptionRecordData(){ return[
         455,
         "Alleyn leases shares to finance the rebuilding of the Fortune",
         290,
-        "DCA: Muniment Series 1, Group 58",
+        "DC: Muniment Series 1, Group 58",
         [
             323
         ],
@@ -23222,7 +23667,7 @@ function getTranscriptionRecordData(){ return[
         471,
         "Prince Charles' Men leave the Hope and ask Alleyn for a loan",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23236,21 +23681,7 @@ function getTranscriptionRecordData(){ return[
         472,
         "Lady Elizabeth's Men write articles of oppression against Henslowe",
         4674,
-        "DCA: MS 1",
-        [
-            323
-        ],
-        []
-    ],
-    [
-        9498,
-        "95-6",
-        1557,
-        "Henslowe Papers",
-        7808,
-        "A property survey describes the decay of the Fortune theatre",
-        3244,
-        "BL: Egerton MS 2623, f 32",
+        "DC: MS 1",
         [
             323
         ],
@@ -23264,7 +23695,7 @@ function getTranscriptionRecordData(){ return[
         479,
         "Henslowe records loan for Dekker's additions to 'Oldcastle'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23278,7 +23709,7 @@ function getTranscriptionRecordData(){ return[
         470,
         "The inhabitants of Finsbury petition the privy council to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23292,7 +23723,7 @@ function getTranscriptionRecordData(){ return[
         481,
         "The Lord Pembroke's Men begin playing at the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23306,7 +23737,7 @@ function getTranscriptionRecordData(){ return[
         475,
         "The Privy council orders the Justices of Middlesex to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23320,7 +23751,7 @@ function getTranscriptionRecordData(){ return[
         476,
         "The Earl of Nottingham writes the Justices of Middlesex to allow the building of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             323
         ],
@@ -23341,6 +23772,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        2751,
+        "95",
+        1556,
+        "Henslowe's Diary",
+        480,
+        "Henslowe records performance receipts from the Rose",
+        2118,
+        "DC: MS 7",
+        [
+            323
+        ],
+        []
+    ],
+    [
         2752,
         "6-7",
         1556,
@@ -23348,7 +23793,7 @@ function getTranscriptionRecordData(){ return[
         469,
         "Henslowe records expenses for work done to the playhouse",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23362,7 +23807,7 @@ function getTranscriptionRecordData(){ return[
         7863,
         "Henslowe records performance receipts from the Rose and Newington Butts",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23376,7 +23821,7 @@ function getTranscriptionRecordData(){ return[
         2654,
         "Henslowe records expenses for work done to the playhouse",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23404,7 +23849,7 @@ function getTranscriptionRecordData(){ return[
         541,
         "Henslowe pays Alleyn his share of the first week's take at the new Fortune",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23418,7 +23863,7 @@ function getTranscriptionRecordData(){ return[
         541,
         "Henslowe pays Alleyn his share of the first week's take at the new Fortune",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23432,7 +23877,7 @@ function getTranscriptionRecordData(){ return[
         3493,
         "Henslowe tallies all money owed to him by Downton and Juby of Prince Henry's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23446,7 +23891,7 @@ function getTranscriptionRecordData(){ return[
         3778,
         "Henslowe purchases the playbooks of 'Philip of Spain' and 'Longshanks' from Alleyn",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23460,7 +23905,7 @@ function getTranscriptionRecordData(){ return[
         3779,
         "Henslowe purchases the playbook of 'Tamar Cham' from Alleyn on behalf of a company",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23474,7 +23919,7 @@ function getTranscriptionRecordData(){ return[
         3821,
         "Ben Jonson is loaned money to write 'Richard Crookback' and additions to 'The Spanish Tragedy'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             323
         ],
@@ -23488,7 +23933,21 @@ function getTranscriptionRecordData(){ return[
         3857,
         "Francis Henslowe buys a share in the Queen's Men when they go on a provincial tour",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
+        [
+            323
+        ],
+        []
+    ],
+    [
+        9509,
+        "120-1",
+        1556,
+        "Henslowe's Diary",
+        480,
+        "Henslowe records performance receipts from the Rose",
+        2118,
+        "DC: MS 7",
         [
             323
         ],
@@ -23548,7 +24007,7 @@ function getTranscriptionRecordData(){ return[
         2164,
         "History of English Dramatic Poetry",
         3462,
-        "The Privy Council considers shutting down the Blackfriars as a means of reducing traffic in the area",
+        "The privy council considers shutting down the Blackfriars as a means of reducing traffic in the area",
         364,
         "TNA: PC 2/43, vol 9",
         [
@@ -23578,7 +24037,21 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
+        [
+            403
+        ],
+        []
+    ],
+    [
+        3616,
+        "380-1n",
+        2164,
+        "History of English Dramatic Poetry",
+        1793,
+        "Palsgrave's Men receive a royal patent to perform at the Fortune and elsewhere",
+        1144,
+        "TNA: C 66/1967",
         [
             403
         ],
@@ -23606,7 +24079,7 @@ function getTranscriptionRecordData(){ return[
         2012,
         "Edward Alleyn enumerates charges for the Bear Garden and Fortune, and attends a play at the Red Bull",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -23620,7 +24093,7 @@ function getTranscriptionRecordData(){ return[
         3471,
         "Edward Alleyn pays rent on the Blackfriars",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -23634,7 +24107,7 @@ function getTranscriptionRecordData(){ return[
         3480,
         "A signet bill confirms Phillip Rosseter's patent for the new Porter's Hall playhouse",
         1926,
-        "TNA: SP 39 [31 May 1615]",
+        "TNA: SP 39, 31 May 1615",
         [
             403
         ],
@@ -23671,6 +24144,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        3638,
+        "361",
+        2164,
+        "History of English Dramatic Poetry",
+        467,
+        "Henslowe moves to renew the lease on the Rose property",
+        2118,
+        "DC: MS 7",
+        [
+            403
+        ],
+        []
+    ],
+    [
         3641,
         "351",
         2164,
@@ -23692,7 +24179,7 @@ function getTranscriptionRecordData(){ return[
         3493,
         "Henslowe tallies all money owed to him by Downton and Juby of Prince Henry's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23706,7 +24193,7 @@ function getTranscriptionRecordData(){ return[
         3494,
         "Henslowe lends John Lowin money to tour with his company",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23720,7 +24207,7 @@ function getTranscriptionRecordData(){ return[
         3496,
         "Worcester's Men are allowed to play again, by the King's licence",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23734,7 +24221,7 @@ function getTranscriptionRecordData(){ return[
         3497,
         "Henslowe lends 40s to William Borne to pay for a play by 'Maxton' [Marston], a new playwright",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23822,7 +24309,7 @@ function getTranscriptionRecordData(){ return[
         3512,
         "Henslowe engages William Borne for the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23836,7 +24323,7 @@ function getTranscriptionRecordData(){ return[
         3513,
         "The playing restraint imposed in the wake of the performance of the Isle of Dogs is lifted",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23850,7 +24337,7 @@ function getTranscriptionRecordData(){ return[
         3514,
         "Henslowe loans 10s to the imprisoned Thomas Nashe",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23864,7 +24351,7 @@ function getTranscriptionRecordData(){ return[
         3515,
         "Henslowe lends Thomas Nashe 20s to continue writing the Isle of Dogs",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -23947,6 +24434,22 @@ function getTranscriptionRecordData(){ return[
         "History of English Dramatic Poetry",
         1835,
         "Fleetwood writes of the collapse of the Bear Garden",
+        1176,
+        "BL: Lansdowne MS 37",
+        [
+            403
+        ],
+        [
+            800
+        ]
+    ],
+    [
+        3700,
+        "251-2",
+        2164,
+        "History of English Dramatic Poetry",
+        1836,
+        "The Lord Mayor of London writes to Burghley about the collapse of the Bear Garden",
         1176,
         "BL: Lansdowne MS 37",
         [
@@ -24261,6 +24764,22 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        3848,
+        "7n.",
+        2164,
+        "History of English Dramatic Poetry",
+        3680,
+        "Sir Henry Herbert receives \u00a33 from 'Mr Hemmings' for a 'courtesie done him about their Blackfriers hous'",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            403
+        ],
+        [
+            681
+        ]
+    ],
+    [
         3860,
         "22",
         2164,
@@ -24326,7 +24845,7 @@ function getTranscriptionRecordData(){ return[
         2164,
         "History of English Dramatic Poetry",
         650,
-        "The Privy Council revokes the Blackfriars parking ban, as it has made the congestion worse",
+        "The privy council revokes the Blackfriars parking ban, as it has made the congestion worse",
         364,
         "TNA: PC 2/43, vol 9",
         [
@@ -24678,7 +25197,7 @@ function getTranscriptionRecordData(){ return[
         3769,
         "Henslowe lends the Admiral's Men 10s to hold a read-through",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24692,7 +25211,7 @@ function getTranscriptionRecordData(){ return[
         3771,
         "'Jane Shore' is rewritten for the Worcester's Men at the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24706,7 +25225,7 @@ function getTranscriptionRecordData(){ return[
         3773,
         "Henslowe loans Thomas Downton \u00a33 toward purchases for the second part of 'Cardinal Wolsey'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24720,7 +25239,7 @@ function getTranscriptionRecordData(){ return[
         3775,
         "Michael Drayton receives partial payment for 'William Longsword'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24734,7 +25253,7 @@ function getTranscriptionRecordData(){ return[
         3776,
         "Henslowe loans the Admiral's Men 30s on the first night of 'Dido'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24748,7 +25267,7 @@ function getTranscriptionRecordData(){ return[
         3777,
         "Henslowe lends Thomas Downton 30s to pay George Chapman for two plays",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24762,7 +25281,7 @@ function getTranscriptionRecordData(){ return[
         3778,
         "Henslowe purchases the playbooks of 'Philip of Spain' and 'Longshanks' from Alleyn",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24776,7 +25295,7 @@ function getTranscriptionRecordData(){ return[
         3779,
         "Henslowe purchases the playbook of 'Tamar Cham' from Alleyn on behalf of a company",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -24823,22 +25342,6 @@ function getTranscriptionRecordData(){ return[
             403
         ],
         []
-    ],
-    [
-        3963,
-        "278-9",
-        2164,
-        "History of English Dramatic Poetry",
-        3786,
-        "A Spanish diplomat describes his visit to Paris Garden",
-        2109,
-        "MS account by the Duke of Naxera, the Spanish Ambassador, of sports at [Paris Garden?], 1544",
-        [
-            403
-        ],
-        [
-            2315
-        ]
     ],
     [
         3964,
@@ -24896,21 +25399,7 @@ function getTranscriptionRecordData(){ return[
         3790,
         "Advertisement for bear-baiting at the Bear Garden",
         4481,
-        "DCA: MS 2",
-        [
-            403
-        ],
-        []
-    ],
-    [
-        3968,
-        "289",
-        2164,
-        "History of English Dramatic Poetry",
-        3791,
-        "A report to the House of Commons recommends that all bear-baiting activities be curtailed",
-        2112,
-        " House of Commons Journal Volume 2: 12 December 1642",
+        "DC: MS 2",
         [
             403
         ],
@@ -24968,7 +25457,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             403
         ],
@@ -24982,7 +25471,7 @@ function getTranscriptionRecordData(){ return[
         460,
         "Alleyn and Henslowe draw up a contract for sharing Fortune profits with players; the contract is not executed",
         293,
-        "DCA: Muniment Series 1, Group 33",
+        "DC: Muniments, Series 1, Group 033",
         [
             403
         ],
@@ -25005,6 +25494,20 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        3978,
+        "313-14",
+        2164,
+        "History of English Dramatic Poetry",
+        1793,
+        "Palsgrave's Men receive a royal patent to perform at the Fortune and elsewhere",
+        1144,
+        "TNA: C 66/1967",
+        [
+            403
+        ],
+        []
+    ],
+    [
         3979,
         "317",
         2164,
@@ -25012,7 +25515,21 @@ function getTranscriptionRecordData(){ return[
         3802,
         "Collier cites Henslowe's repairs to the Rose in 1592 as evidence that the playhouse was built well before 1587",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
+        [
+            403
+        ],
+        []
+    ],
+    [
+        3980,
+        "318",
+        2164,
+        "History of English Dramatic Poetry",
+        467,
+        "Henslowe moves to renew the lease on the Rose property",
+        2118,
+        "DC: MS 7",
         [
             403
         ],
@@ -25056,7 +25573,7 @@ function getTranscriptionRecordData(){ return[
         3818,
         "Henslowe lends the Admiral's Men \u00a34 5s to complete the payment for a new play",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25070,7 +25587,7 @@ function getTranscriptionRecordData(){ return[
         3821,
         "Ben Jonson is loaned money to write 'Richard Crookback' and additions to 'The Spanish Tragedy'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25084,7 +25601,7 @@ function getTranscriptionRecordData(){ return[
         3822,
         "Dekker, Chettle and Haughton receive \u00a33 for 'patient Grissell'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25098,7 +25615,7 @@ function getTranscriptionRecordData(){ return[
         7436,
         "Robert Daborne solicits payment from Philip Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -25112,7 +25629,7 @@ function getTranscriptionRecordData(){ return[
         3829,
         "Richard Alleyn binds himself to Philip Henslowe",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25140,7 +25657,7 @@ function getTranscriptionRecordData(){ return[
         7770,
         "Henslowe assumes the apprenticeship of James Bristow",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25198,7 +25715,7 @@ function getTranscriptionRecordData(){ return[
         7950,
         "Edward Conway to the Privy Council: The King responds to the controversy over 'A Game at Chess'",
         4747,
-        "TNA, PC2/32",
+        "TNA: PC 2/32",
         [
             403
         ],
@@ -25212,7 +25729,7 @@ function getTranscriptionRecordData(){ return[
         208,
         "The Privy Council writes to Secretary Conway on the matter of Middleton's 'A Game at Chess'",
         119,
-        "TNA, PC2/32, ff 424\u20135",
+        "TNA: PC 2/32, ff 424\u20135",
         [
             403
         ],
@@ -25368,7 +25885,7 @@ function getTranscriptionRecordData(){ return[
         3857,
         "Francis Henslowe buys a share in the Queen's Men when they go on a provincial tour",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -25508,7 +26025,7 @@ function getTranscriptionRecordData(){ return[
         3911,
         "Henslowe notes that he has received Ben Jonson's 'share'",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -26531,6 +27048,22 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             21
+        ]
+    ],
+    [
+        4284,
+        "426 n",
+        2164,
+        "History of English Dramatic Poetry",
+        4077,
+        "An English-Italian phrase book uses the Bull as an example of a theatrical venue",
+        424,
+        "First Fruits",
+        [
+            403
+        ],
+        [
+            70
         ]
     ],
     [
@@ -27843,7 +28376,7 @@ function getTranscriptionRecordData(){ return[
         7811,
         "Philip Henslowe lends Thomas Blackwood money to tour with his company",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -27866,20 +28399,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        9772,
-        "348\u20139n",
-        2164,
-        "History of English Dramatic Poetry",
-        7996,
-        "The Chamberlain's Men are newly incorporated as the King's Men: the Signet Bill",
-        4780,
-        "Signet Bill, 'Licence to Fletcher, Shakespeare, and others . . . 17 May, 1603'",
-        [
-            403
-        ],
-        []
-    ],
-    [
         9778,
         "63n",
         2164,
@@ -27888,6 +28407,20 @@ function getTranscriptionRecordData(){ return[
         "Sir Humphrey Mildmay pays 1s to see 'The Witts' at the Blackfriars",
         2064,
         "BL: Harley MS 454, ff 108\u2013184v",
+        [
+            403
+        ],
+        []
+    ],
+    [
+        9814,
+        "477\u20138",
+        3745,
+        "History of English Dramatic Poetry",
+        8017,
+        "The Middlesex justices of the peace investigate the players' claim valuing the Blackfriars properties at 21,990l",
+        31,
+        "-No MS Reference-",
         [
             403
         ],
@@ -27904,134 +28437,6 @@ function getTranscriptionRecordData(){ return[
         "-No MS Reference-",
         [
             134
-        ],
-        []
-    ],
-    [
-        7644,
-        "black metal box, front, 'B', Burbage, Cuthbert et al.",
-        3157,
-        "Huntington Library, Wallace (Charles William) Collection, Index Files, Box 16",
-        179,
-        "Requests, Burbage vs Allen: The court orders Giles Allen's arrest",
-        99,
-        "TNA: Req 2/372",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        7740,
-        "black metal box, 'S', 'Shakesp - Memorials - Burbage & Shakesp.'",
-        3157,
-        "Huntington Library, Wallace (Charles William) Collection, Index Files, Box 16",
-        7864,
-        "John Manningham relates a bawdy anecdote about Shakespeare and Burbage",
-        4564,
-        "BL: Harley MS 5353",
-        [
-            1366
-        ],
-        [
-            2415
-        ]
-    ],
-    [
-        8054,
-        "19 March 1602/3 Plays, Restraint of till further order, 1 leaf",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        8005,
-        "The Privy Council orders plays restrained until further notice",
-        3427,
-        "BL: Add MS 11402",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8055,
-        "9 Apr 1604 Plays to be allowed, now Lent is passed, 1 leaf",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        1750,
-        "Playing is allowed to resume following Lent",
-        3427,
-        "BL: Add MS 11402",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8057,
-        "5 Oct 1605 Plays Restrained on acct. of Plague",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        1749,
-        "Stage plays forbidden during the plague",
-        3427,
-        "BL: Add MS 11402",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8058,
-        "15 Dec 1605 Players, King's, Queens & Princes allowed to play again., 1 leaf",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        1748,
-        "Playing resumes following the plague",
-        3427,
-        "BL: Add MS 11402",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8067,
-        "18 Aug 1624 Middleton, Thomas Warrt to Arrest, 1 leaf",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        1760,
-        "The Privy Council orders Ralph Robinson to bring Thomas Middleton before them",
-        4761,
-        "TNA: PC2/32, p 421",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8068,
-        "30 Aug 1624 Middleton, Edward warrt to Arrest &c, 1 leaf",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        1757,
-        "The Privy Council orders Robert Goffe to bring Thomas Middleton's son before them",
-        4758,
-        "TNA: PC 2/32, f 428",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        8070,
-        "1-3",
-        3408,
-        "Huntington Library: Wallace (Charles William) Collection, Box 3",
-        208,
-        "The Privy Council writes to Secretary Conway on the matter of Middleton's 'A Game at Chess'",
-        119,
-        "TNA, PC2/32, ff 424\u20135",
-        [
-            1366
         ],
         []
     ],
@@ -28071,7 +28476,7 @@ function getTranscriptionRecordData(){ return[
         7976,
         "A legal document offers a description of the first Globe property",
         3723,
-        "TNA: C54/1682",
+        "TNA: C 54/1682",
         [
             602
         ],
@@ -28085,7 +28490,7 @@ function getTranscriptionRecordData(){ return[
         7976,
         "A legal document offers a description of the first Globe property",
         3724,
-        "TNA: C54/1722",
+        "TNA: C 54/1722",
         [
             602
         ],
@@ -28099,35 +28504,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
-        [
-            330
-        ],
-        []
-    ],
-    [
-        9770,
-        "83",
-        1585,
-        "Illustrations of the Life of Shakespeare",
-        7995,
-        "The Chamberlain's Men are newly incorporated as the King's Men: the docket",
-        4779,
-        "Signet Office Docket, from the license to the King's Men 'to exercise the art of playing,' May 1603",
-        [
-            330
-        ],
-        []
-    ],
-    [
-        9771,
-        "83",
-        1585,
-        "Illustrations of the Life of Shakespeare",
-        7996,
-        "The Chamberlain's Men are newly incorporated as the King's Men: the Signet Bill",
-        4780,
-        "Signet Bill, 'Licence to Fletcher, Shakespeare, and others . . . 17 May, 1603'",
+        "TNA: C 66/1608",
         [
             330
         ],
@@ -28185,7 +28562,7 @@ function getTranscriptionRecordData(){ return[
         7550,
         "Alleyn records the initial cost of the Beargarden, and his subsequent profits",
         298,
-        "DCA: MS 8",
+        "DC: MS 8",
         [
             403
         ],
@@ -28194,74 +28571,32 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        9812,
-        "825\u20136",
-        4797,
-        "Journal of the House of Commons",
-        8015,
-        "The journal of the House of Commons reports on the Blackfriars inhabitants' petition against the playhouse",
-        4798,
-        "House of Commons Journal",
-        [],
-        []
-    ],
-    [
-        9813,
-        "834",
-        4797,
-        "Journal of the House of Commons",
-        8016,
-        "The House of Commons committee reports back on the Blackfriars petition",
-        4798,
-        "House of Commons Journal",
-        [],
-        []
-    ],
-    [
-        17,
-        "29-31 [B3-4]",
-        12,
-        "Letters of Sir Henry Wotton to Sir Edmund Bacon",
-        13,
-        "The Globe burns: Sir Henry Wotton",
-        31,
-        "-No MS Reference-",
+        8748,
+        "257",
+        3788,
+        "Keep the Widow Waking: A Lost Play by Dekker",
+        73,
+        "Star Chamber, 'Widow Waking' case: Thomas Dekker deposes",
+        49,
+        "TNA: STAC 8/31/16",
         [
-            10
+            166
         ],
         []
     ],
     [
-        18,
-        "155\u20136",
-        12,
-        "Letters of Sir Henry Wotton to Sir Edmund Bacon",
-        12,
-        "Apprentices illegally perform the 'Hog Hath Lost His Pearl' at the Whitefriars",
-        8,
-        "Wotton correspondence",
+        8750,
+        "258-9",
+        3788,
+        "Keep the Widow Waking: A Lost Play by Dekker",
+        74,
+        "Star Chamber, 'Widow Waking' case: Thomas Dekker deposes a second time",
+        49,
+        "TNA: STAC 8/31/16",
         [
-            10
+            166
         ],
-        [
-            10
-        ]
-    ],
-    [
-        20,
-        "94",
-        12,
-        "Letters of Sir Henry Wotton to Sir Edmund Bacon",
-        14,
-        "Henry Wotton refers to the Cockpit as being in Shoe Lane",
-        8,
-        "Wotton correspondence",
-        [
-            10
-        ],
-        [
-            10
-        ]
+        []
     ],
     [
         2343,
@@ -28278,6 +28613,22 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        2570,
+        "12\u201313",
+        1447,
+        "London Churches before the Great Fire",
+        666,
+        "The Children of Paul's perform old-fashioned plays",
+        374,
+        "Jack Drum's Entertainment",
+        [
+            279
+        ],
+        [
+            69
+        ]
+    ],
+    [
         9083,
         "98\u20139",
         4111,
@@ -28290,6 +28641,24 @@ function getTranscriptionRecordData(){ return[
             1917
         ],
         []
+    ],
+    [
+        9084,
+        "101",
+        4111,
+        "London's Bull-Baiting and Bear-Baiting Arena in 1562",
+        5182,
+        "The Bear Garden collapses: Stow (1615)",
+        5,
+        "Annals",
+        [
+            1917
+        ],
+        [
+            9,
+            1284,
+            658
+        ]
     ],
     [
         9085,
@@ -28359,6 +28728,20 @@ function getTranscriptionRecordData(){ return[
         "Lost Plays of Shakespeare's Age",
         76,
         "George Chapman answers the charges for his part in The Old Joiner of Aldgate scandal (Crown v Howe et al)",
+        51,
+        "TNA: STAC 8/8/2",
+        [
+            166
+        ],
+        []
+    ],
+    [
+        1942,
+        "61",
+        1206,
+        "Lost Plays of Shakespeare's Age",
+        80,
+        "Edward Pearce answers charges about his part in the St Paul's production of The Old Joiner of Aldgate (Crown v Howe et al)",
         51,
         "TNA: STAC 8/8/2",
         [
@@ -28480,7 +28863,7 @@ function getTranscriptionRecordData(){ return[
         473,
         "King's, Queen's and Prince's companies are allowed to perform at the Globe, Fortune and Curtain after Lent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28494,7 +28877,7 @@ function getTranscriptionRecordData(){ return[
         470,
         "The inhabitants of Finsbury petition the privy council to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28508,7 +28891,7 @@ function getTranscriptionRecordData(){ return[
         475,
         "The Privy council orders the Justices of Middlesex to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28522,7 +28905,7 @@ function getTranscriptionRecordData(){ return[
         476,
         "The Earl of Nottingham writes the Justices of Middlesex to allow the building of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28536,7 +28919,7 @@ function getTranscriptionRecordData(){ return[
         455,
         "Alleyn leases shares to finance the rebuilding of the Fortune",
         290,
-        "DCA: Muniment Series 1, Group 58",
+        "DC: Muniment Series 1, Group 58",
         [
             403
         ],
@@ -28550,7 +28933,7 @@ function getTranscriptionRecordData(){ return[
         477,
         "Privy Council allows Strange's Men to return to the Rose from Newington Butts",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28564,7 +28947,7 @@ function getTranscriptionRecordData(){ return[
         7555,
         "Lord Strange's Men petition the Privy Council to be allowed to resume playing at the Rose",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28578,7 +28961,7 @@ function getTranscriptionRecordData(){ return[
         7556,
         "The Thames watermen petition the Lord Admiral to have the Rose reopened",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28592,7 +28975,7 @@ function getTranscriptionRecordData(){ return[
         7557,
         "Ralph Bowes requests his quarterly fee for his services as Master of the Queen's Game",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -28606,7 +28989,7 @@ function getTranscriptionRecordData(){ return[
         7558,
         "Henslowe to Alleyn: Ralph Bowes is ill, and plans to acquire the Mastership of the Queen's Games are in jeopardy",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28620,7 +29003,7 @@ function getTranscriptionRecordData(){ return[
         7559,
         "Dorington to Henslowe: Illness prevents him from mounting an exhibition for the Queen; Henslowe is to step in for him",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28666,7 +29049,7 @@ function getTranscriptionRecordData(){ return[
         7561,
         "Sir William Stuart acquits the Mastership of the King's Game to Henslowe and Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28680,7 +29063,7 @@ function getTranscriptionRecordData(){ return[
         7562,
         "James I grants Henslowe and Alleyn Mastership of the King's Game",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28694,7 +29077,7 @@ function getTranscriptionRecordData(){ return[
         7563,
         "Henslowe and Alleyn, in their role as Masters of the King's Game, complain to James I of the costs associated with the office, and ask for more pay",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28708,7 +29091,7 @@ function getTranscriptionRecordData(){ return[
         7564,
         "Henslowe and Alleyn contract with Peter Street for the rebuilding of Paris Garden",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28722,7 +29105,7 @@ function getTranscriptionRecordData(){ return[
         7565,
         "Responding to a petition against him by Jacob Meade, Alleyn submits a counter-petition to the Lord Chamberlain",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28752,7 +29135,7 @@ function getTranscriptionRecordData(){ return[
         7759,
         "Henslowe records charges related to the maintenance of the Rose",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -28766,7 +29149,7 @@ function getTranscriptionRecordData(){ return[
         7781,
         "Edward Alleyn lists costume inventory ",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28780,7 +29163,7 @@ function getTranscriptionRecordData(){ return[
         7782,
         "Edward Alleyn writes to Joan Alleyn from Chelmsford",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28794,7 +29177,7 @@ function getTranscriptionRecordData(){ return[
         7769,
         "Henslowe tallies expenses related to the Admiral's Men",
         2118,
-        "DCA: MS 7",
+        "DC: MS 7",
         [
             403
         ],
@@ -28808,7 +29191,7 @@ function getTranscriptionRecordData(){ return[
         7775,
         "Henslowe writes to Edward Alleyn about the acquisition of the Beargarden",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28822,7 +29205,7 @@ function getTranscriptionRecordData(){ return[
         470,
         "The inhabitants of Finsbury petition the privy council to allow the construction of the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28836,7 +29219,7 @@ function getTranscriptionRecordData(){ return[
         7559,
         "Dorington to Henslowe: Illness prevents him from mounting an exhibition for the Queen; Henslowe is to step in for him",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -28850,7 +29233,7 @@ function getTranscriptionRecordData(){ return[
         473,
         "King's, Queen's and Prince's companies are allowed to perform at the Globe, Fortune and Curtain after Lent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -28864,7 +29247,7 @@ function getTranscriptionRecordData(){ return[
         460,
         "Alleyn and Henslowe draw up a contract for sharing Fortune profits with players; the contract is not executed",
         293,
-        "DCA: Muniment Series 1, Group 33",
+        "DC: Muniments, Series 1, Group 033",
         [
             403
         ],
@@ -28878,7 +29261,7 @@ function getTranscriptionRecordData(){ return[
         2012,
         "Edward Alleyn enumerates charges for the Bear Garden and Fortune, and attends a play at the Red Bull",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -28892,7 +29275,7 @@ function getTranscriptionRecordData(){ return[
         7784,
         "Alleyn visits the Fortune",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -28906,7 +29289,7 @@ function getTranscriptionRecordData(){ return[
         7785,
         "Alleyn records the burning of the Fortune",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -28920,7 +29303,7 @@ function getTranscriptionRecordData(){ return[
         7786,
         "Alleyn meets with the builders of the second Fortune",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -28934,7 +29317,7 @@ function getTranscriptionRecordData(){ return[
         7787,
         "Alleyn pays for the building of the second Fortune",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -28948,7 +29331,7 @@ function getTranscriptionRecordData(){ return[
         455,
         "Alleyn leases shares to finance the rebuilding of the Fortune",
         290,
-        "DCA: Muniment Series 1, Group 58",
+        "DC: Muniment Series 1, Group 58",
         [
             403
         ],
@@ -28962,7 +29345,7 @@ function getTranscriptionRecordData(){ return[
         7788,
         "Edward Alleyn sells lease of the Fortune",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             403
         ],
@@ -29109,6 +29492,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        3309,
+        "69",
+        1809,
+        "Memoirs of the Principal Actors in the Plays of Shakespeare",
+        1791,
+        "King Charles grants the King's Men a renewed patent",
+        1143,
+        "TNA: C 66/2348, mb 19",
+        [
+            403
+        ],
+        []
+    ],
+    [
         3313,
         "85-88",
         1809,
@@ -29179,20 +29576,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        3444,
-        "50-1",
-        1809,
-        "Memoirs of the Principal Actors in the Plays of Shakespeare",
-        3297,
-        "An epitaph on Richard Burbage celebrates him as a tragedian",
-        1845,
-        "BL: Sloane MS 1786",
-        [
-            403
-        ],
-        []
-    ],
-    [
         3449,
         "50",
         1809,
@@ -29200,7 +29583,7 @@ function getTranscriptionRecordData(){ return[
         3302,
         "A two-word epitaph observes Richard Burbage's passing",
         1844,
-        "Bodl.: Ashmole 38",
+        "Bodl: Ashmole 38",
         [
             403
         ],
@@ -29614,7 +29997,7 @@ function getTranscriptionRecordData(){ return[
         412,
         "A purse is snatched at the Red Bull",
         253,
-        "LMA, MJ/SR/0519/53",
+        "LMA: MJ/SR/0519",
         [
             280
         ],
@@ -29628,7 +30011,7 @@ function getTranscriptionRecordData(){ return[
         410,
         "An apprentice threatens to riot unless remunerated for an injury sustained during a performance at the Red Bull",
         251,
-        "LMA: MJ/SR/0617/30",
+        "LMA: MJ/SR/0617",
         [
             280
         ],
@@ -29670,7 +30053,7 @@ function getTranscriptionRecordData(){ return[
         242,
         "A man is assaulted at the Fortune",
         141,
-        "LMA, MJ/SR/0499/86",
+        "LMA: MJ/SR/0499/86",
         [
             280
         ],
@@ -29724,7 +30107,7 @@ function getTranscriptionRecordData(){ return[
         817,
         "More Records from the Remembrancia",
         1397,
-        "The Mayor and Aldermen of London try to block Philip Rosseter's  plans for a new playhouse at Puddle Wharf",
+        "The mayor and aldermen of London try to block Philip Rosseter's  plans for a new playhouse at Puddle Wharf",
         816,
         "LMA: COL/RMD/PA/01/010",
         [
@@ -29752,7 +30135,7 @@ function getTranscriptionRecordData(){ return[
         817,
         "More Records from the Remembrancia",
         1399,
-        "The Lord Mayor asks the Lord Chamberlain to intervene against Philip Rosseter on the city's behalf",
+        "The lord mayor asks the lord chamberlain to intervene against Philip Rosseter on the city's behalf",
         816,
         "LMA: COL/RMD/PA/01/010",
         [
@@ -29766,7 +30149,7 @@ function getTranscriptionRecordData(){ return[
         817,
         "More Records from the Remembrancia",
         1400,
-        "Sir Edward Coke writes to the Lord Mayor against the projected new playhouse",
+        "Sir Edward Coke writes to the lord mayor against the projected new playhouse",
         816,
         "LMA: COL/RMD/PA/01/010",
         [
@@ -29943,20 +30326,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9452,
-        "354-5",
-        4638,
-        "Narrative of the Visit of the Duke de N\u00e1jera to England, in the Year 1543-4",
-        7780,
-        "Secretary of the Duke of Najera reports on the sport of baiting in London",
-        4639,
-        "A Relation of the Expedition Made by the Emperor into Italy, Germany, and Flanders in 1543",
-        [
-            2435
-        ],
-        []
-    ],
-    [
         8614,
         "820",
         1359,
@@ -30009,34 +30378,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        9069,
-        "107-8; 110 (Plate IV)",
-        3987,
-        "Of Stake and Stage",
-        7528,
-        "Edward Alleyn -- 'Master of his Majesty's Beargarden' -- petitions Lord High Treasurer Cranfield for sums owed",
-        3988,
-        "Sackville-Knole MSS. I, old number 5200, 'Petition of Edward Alleyn as Master of His Majesty's Beargarden, 1622'",
-        [
-            1808
-        ],
-        []
-    ],
-    [
-        9070,
-        "108; 109 (Plate III)",
-        3987,
-        "Of Stake and Stage",
-        7529,
-        "Philip Henslowe and Edward Alleyn tally expenses for keeping the King's game",
-        3989,
-        "Sackville-Knole MSS. I, old number 6994, 'Account of Expenses Incurred by Philip Henslowe and Edward Alleyn as Masters of the Beargarden''",
-        [
-            1808
-        ],
-        []
-    ],
-    [
         9121,
         "xxii-xxiii",
         4075,
@@ -30066,6 +30407,38 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             599
+        ]
+    ],
+    [
+        9019,
+        "117",
+        3811,
+        "Ord C1",
+        7489,
+        "Sir John Astley receives a New Year's gratuity from the King's Men",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            558
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        9023,
+        "",
+        3811,
+        "Ord C1",
+        2123,
+        "'Shank's Ordinary' is licensed to the King's Men",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            558
+        ],
+        [
+            681
         ]
     ],
     [
@@ -30117,12 +30490,156 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        8751,
+        "131",
+        2915,
+        "Ord HP10: W. b. 165 'Lowin'",
+        5921,
+        "'The Widow's Prize' is licensed to Prince Charles' Men pending revision",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8767,
+        "71",
+        2915,
+        "Ord HP10: W. b. 165 'Lowin'",
+        5934,
+        "Shirley's 'The School of Compliment' is licensed to the Cockpit Company as 'Love Tricks'",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7001,
+        "53",
+        2927,
+        "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
+        5933,
+        "A fencing prize is played at the Red Bull",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7004,
+        "53",
+        2927,
+        "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
+        5930,
+        "'The Peaceable King' is licensed for the Prince's Men",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
         7006,
         "127",
         2927,
         "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
         6718,
         "The Swan hosts a fencing prize",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7008,
+        "53",
+        2927,
+        "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
+        5929,
+        "'The Crafty Merchant' is licensed to the Lady Elizabeth's Men",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7052,
+        "166",
+        2927,
+        "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
+        2202,
+        "Henry Herbert imprisons a man for lending a church robe to the players at Salisbury Court",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8273,
+        "51",
+        2927,
+        "Ord HP12: W. b. 196 'Theatres of Shakespeare's Time'",
+        6715,
+        "Day and Dekker's 'The Belman of Paris' is licensed for Prince Charles' Men at the Red Bull",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7081,
+        "127",
+        2947,
+        "Ord HP3: W. b. 139 'Appliances'",
+        6793,
+        "Henry Herbert receives payment from performances during Lent at the Cockpit",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        9015,
+        "146",
+        3809,
+        "Ord HP4: W. b. 143 'Burbage'",
+        5917,
+        "'Match Me in London' is licensed to the Lady Elizabeth's Men",
         39,
         "Herbert, Sir Henry, Master of Revels. Office Book",
         [
@@ -30149,12 +30666,76 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        6969,
+        "85",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        6681,
+        "A provincial boy's company is licensed to act briefly at the Curtain",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
         7018,
         "46",
         2982,
         "Ord HP5: W. b. 156 'Fortune'",
         6730,
         "A rope-dancer performs at the Fortune",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7059,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        6771,
+        "Henry Herbert receives a Christmas gratuity from the Cockpit company",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7062,
+        "150",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        6774,
+        "Henry Herbert receives a New Years' gift from the Cockpit company",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        7064,
+        "150",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        2153,
+        "Massinger's 'The Renegado' is licensed to the Cockpit company",
         39,
         "Herbert, Sir Henry, Master of Revels. Office Book",
         [
@@ -30219,6 +30800,70 @@ function getTranscriptionRecordData(){ return[
         "Ord HP5: W. b. 156 'Fortune'",
         6722,
         "A competing version of 'Keep the Widow Waking' is licensed for another company",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8754,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        5925,
+        "'A Late Murder of a Son upon the Mother' by Ford and Webster is licensed",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8761,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        2174,
+        "Massinger's 'The Parliament of Love' is licensed to the Cockpit company",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8768,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        5936,
+        "Davenport's 'The City Nightcap' is licensed to the Cockpit company",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8770,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        5937,
+        "Heywood's 'The Captive' is licensed to the Cockpit company",
         39,
         "Herbert, Sir Henry, Master of Revels. Office Book",
         [
@@ -30299,6 +30944,54 @@ function getTranscriptionRecordData(){ return[
         "Ord HP5: W. b. 156 'Fortune'",
         5910,
         "Gunnell's 'The Way to Content all Women' is licensed for the Fortune",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8809,
+        "85",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        6852,
+        "'Dutch Painter and French Brank' is licensed to the Prince's Men at the Curtain",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        8810,
+        "85",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        5911,
+        "'The Plantation of Virginia' is licensed for a company at the Curtain pending revisions",
+        39,
+        "Herbert, Sir Henry, Master of Revels. Office Book",
+        [
+            330
+        ],
+        [
+            681
+        ]
+    ],
+    [
+        9034,
+        "149",
+        2982,
+        "Ord HP5: W. b. 156 'Fortune'",
+        7495,
+        "Ford and Dekker's 'The Bristowe [Bristol] Merchant' is licensed",
         39,
         "Herbert, Sir Henry, Master of Revels. Office Book",
         [
@@ -30441,20 +31134,6 @@ function getTranscriptionRecordData(){ return[
         "Requests, Burbage v Allen: Giles Allen replies",
         75,
         "TNA: SP 12/260",
-        [
-            330
-        ],
-        []
-    ],
-    [
-        2784,
-        "434\u20139",
-        1569,
-        "Outlines of the Life of Shakespeare",
-        2681,
-        "The legal estate of Shakespeare's Blackfriars property is transferred to new trustees",
-        1568,
-        "Deed transferring the Legal Estate of the Blackfriars property, 10 February, 1617\u201318, in trust to follow the directions of Shakespeare's will",
         [
             330
         ],
@@ -30671,6 +31350,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9811,
+        "271",
+        1569,
+        "Outlines of the Life of Shakespeare",
+        647,
+        "The City orders the Blackfriars playhouse suppressed",
+        362,
+        "LMA: COL/CA/01/01/038",
+        [
+            330
+        ],
+        []
+    ],
+    [
         9125,
         "177-8",
         4024,
@@ -30678,7 +31371,7 @@ function getTranscriptionRecordData(){ return[
         7571,
         "Edward Alleyn lists deeds and bonds relating to the Bear Garden",
         298,
-        "DCA: MS 8",
+        "DC: MS 8",
         [
             400
         ],
@@ -30949,6 +31642,21 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9630,
+        "60\u20131",
+        3910,
+        "Playhouse Wills, 1558\u20131642",
+        443,
+        "Margaret Brayne makes her will",
+        1512,
+        "LMA: DL/C/B/006/MS09172/016A",
+        [
+            311,
+            313
+        ],
+        []
+    ],
+    [
         9631,
         "72-4",
         3910,
@@ -30994,14 +31702,14 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9636,
-        "130-1",
+        9635,
+        "101-3",
         3910,
         "Playhouse Wills, 1558\u20131642",
-        7897,
-        "Frances Grace writes his will",
-        4723,
-        "LMA: MS 25.62/4",
+        7596,
+        "Henslowe wills properties to his wife Agnes, including the lease of the Beargarden",
+        4514,
+        "TNA: PROB 11/127/14",
         [
             311,
             313
@@ -31106,7 +31814,7 @@ function getTranscriptionRecordData(){ return[
         7903,
         "John Honyman makes his will",
         4731,
-        "TNA, PROB 10/547",
+        "TNA: PROB 10/547",
         [
             311,
             313
@@ -31122,6 +31830,21 @@ function getTranscriptionRecordData(){ return[
         "Christopher Beeston drafts his will",
         4732,
         "TNA: PROB 10/582",
+        [
+            311,
+            313
+        ],
+        []
+    ],
+    [
+        9775,
+        "80-1",
+        3910,
+        "Playhouse Wills, 1558\u20131642",
+        5874,
+        "William Slye bequeaths his share in the Globe",
+        4782,
+        "TNA: PROB 10/258, 24 August 1608, bifolium",
         [
             311,
             313
@@ -31153,71 +31876,9 @@ function getTranscriptionRecordData(){ return[
         6553,
         "John Brayne dissatisfied with scaffolds built for the Red Lion; The Story of Sampson to be performed",
         280,
-        "LMA: 04329/1",
+        "LMA: CLC/L/CC/B/001/MS04329/001",
         [
             231
-        ],
-        []
-    ],
-    [
-        13,
-        "402\u20133",
-        10,
-        "Reliqui\u00e6 Wottonian\u00e6",
-        12,
-        "Apprentices illegally perform the 'Hog Hath Lost His Pearl' at the Whitefriars",
-        8,
-        "Wotton correspondence",
-        [
-            10
-        ],
-        [
-            10
-        ]
-    ],
-    [
-        14,
-        "425-6 [Ff8-8v]",
-        10,
-        "Reliqui\u00e6 Wottonian\u00e6",
-        13,
-        "The Globe burns: Sir Henry Wotton",
-        12,
-        "Letters of Sir Henry Wotton to Sir Edmund Bacon",
-        [
-            10
-        ],
-        [
-            10
-        ]
-    ],
-    [
-        15,
-        "463",
-        10,
-        "Reliqui\u00e6 Wottonian\u00e6",
-        14,
-        "Henry Wotton refers to the Cockpit as being in Shoe Lane",
-        8,
-        "Wotton correspondence",
-        [
-            10
-        ],
-        [
-            10
-        ]
-    ],
-    [
-        3255,
-        "408",
-        1804,
-        "Report on Manuscripts in Various Collections",
-        3111,
-        "Sir John Suckling and Mr. Digby play an 'actus secundus' at the Blackfriars: Robert Leake to Gervase Clifton",
-        4791,
-        "'Robert Leake to Sir Gervase Clifton,' 1634, Nov. 25, Additional Manuscripts of Sir Hervey Juckes Lloyd Bruce",
-        [
-            398
         ],
         []
     ],
@@ -31451,7 +32112,7 @@ function getTranscriptionRecordData(){ return[
         1240,
         "Requests, Witter vs Heminges and Condell: The court order book indicates that proceedings are ongoing",
         4706,
-        "TNA, REQ 1/29",
+        "TNA: REQ 1/29",
         [
             1366
         ],
@@ -31465,7 +32126,7 @@ function getTranscriptionRecordData(){ return[
         1241,
         "Requests, Witter vs Heminges and Condell: Heminges must provide the court with documents",
         4706,
-        "TNA, REQ 1/29",
+        "TNA: REQ 1/29",
         [
             1366
         ],
@@ -31589,7 +32250,7 @@ function getTranscriptionRecordData(){ return[
         715,
         "Shakespeare and his London Associates",
         1266,
-        "Requests, Keysar v Burbage et al: The court responds to an affidavit",
+        "Requests, Keysar vs Burbage et al: The court responds to an affidavit",
         4709,
         "TNA: REQ 1/152",
         [
@@ -31765,7 +32426,7 @@ function getTranscriptionRecordData(){ return[
         1196,
         "Shakespeare's Blackfriars Playhouse",
         1800,
-        "The Blackfriars inhabitants petition the Lord Mayor for help with the crowds around the playhouse",
+        "The Blackfriars inhabitants petition the lord mayor for help with the crowds around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -31779,7 +32440,7 @@ function getTranscriptionRecordData(){ return[
         1196,
         "Shakespeare's Blackfriars Playhouse",
         657,
-        "The officers of the Blackfriars precinct complain to the Lord Mayor about commotion around the playhouse",
+        "The officers of the Blackfriars precinct complain to the lord mayor about commotion around the playhouse",
         371,
         "LMA: COL/RMD/PA/01/005",
         [
@@ -31809,7 +32470,7 @@ function getTranscriptionRecordData(){ return[
         7867,
         "Augustine Phillips testifies at the Essex trial",
         4683,
-        "TNA, SP 12/278, f 139",
+        "TNA: SP 12/278, f 139",
         [
             2523
         ],
@@ -31926,6 +32587,104 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        2869,
+        "39",
+        1626,
+        "Takeover at Blackfriars: Queen's Revels to King's Men",
+        6495,
+        "The shrouds and cloister below the chapter house are rented out to trunkmakers: John Howe",
+        1537,
+        "LMA: DL/B/A/MS09537/009",
+        [
+            348
+        ],
+        []
+    ],
+    [
+        2870,
+        "39",
+        1626,
+        "Takeover at Blackfriars: Queen's Revels to King's Men",
+        2758,
+        "Edward Pearce is appointed Almoner and Master of the Choristers of St Paul's",
+        2722,
+        "LMA: CLC/313/C/001/MS25630/004",
+        [
+            348
+        ],
+        []
+    ],
+    [
+        2074,
+        "41",
+        1280,
+        "The Accounts of the Overseers of the Poor of Paris Garden",
+        527,
+        "The 'players' pay \u00a33 19s 4d to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            216
+        ],
+        []
+    ],
+    [
+        2075,
+        "27",
+        1280,
+        "The Accounts of the Overseers of the Poor of Paris Garden",
+        526,
+        "The Swan pays \u00a34 6s 8d to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            216
+        ],
+        []
+    ],
+    [
+        9224,
+        "29",
+        1280,
+        "The Accounts of the Overseers of the Poor of Paris Garden",
+        7650,
+        "The Swan pays \u00a35 3s 4d to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            216
+        ],
+        []
+    ],
+    [
+        9226,
+        "30",
+        1280,
+        "The Accounts of the Overseers of the Poor of Paris Garden",
+        7651,
+        "The Swan pays \u00a35 5s to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            216
+        ],
+        []
+    ],
+    [
+        9229,
+        "33",
+        1280,
+        "The Accounts of the Overseers of the Poor of Paris Garden",
+        7653,
+        "The Swan pays 9s 3d to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            216
+        ],
+        []
+    ],
+    [
         9051,
         "86-7",
         3813,
@@ -31933,7 +32692,7 @@ function getTranscriptionRecordData(){ return[
         471,
         "Prince Charles' Men leave the Hope and ask Alleyn for a loan",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -31947,7 +32706,7 @@ function getTranscriptionRecordData(){ return[
         7521,
         "John Russell is charged with dishonesty, and removed from his position as gatherer at the Fortune",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -31961,7 +32720,7 @@ function getTranscriptionRecordData(){ return[
         7551,
         "Henslowe and Alleyn pay the Master of the King's Game for permission to use Paris Garden for animal sports",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -31975,7 +32734,7 @@ function getTranscriptionRecordData(){ return[
         7552,
         "Sir William Faunt writes to Edward Alleyn concerning bulls for Paris Garden",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -31989,7 +32748,7 @@ function getTranscriptionRecordData(){ return[
         7553,
         "Henry Middleton writes to Alleyn on behalf of Henry Ashmore, requesting the return of a bear",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -32003,7 +32762,7 @@ function getTranscriptionRecordData(){ return[
         7554,
         "Thomas Radford is bound Deputy Master of the King's Game to Philip Henslowe and Edward Alleyn",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -32049,7 +32808,7 @@ function getTranscriptionRecordData(){ return[
         7790,
         "Edward Alleyn lists costs for the building of the Fortune",
         298,
-        "DCA: MS 8",
+        "DC: MS 8",
         [
             403
         ],
@@ -32065,7 +32824,7 @@ function getTranscriptionRecordData(){ return[
         7791,
         "Alleyn purchases 'Inheritannc' of Fortune lease",
         298,
-        "DCA: MS 8",
+        "DC: MS 8",
         [
             403
         ],
@@ -32081,7 +32840,7 @@ function getTranscriptionRecordData(){ return[
         7793,
         "John Alleyn purchases a cloak and robe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32095,7 +32854,7 @@ function getTranscriptionRecordData(){ return[
         7794,
         "John and Edward Alleyn purchase a cloak",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32109,7 +32868,7 @@ function getTranscriptionRecordData(){ return[
         7795,
         "Richard Jones writes to Alleyn for a loan",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32123,7 +32882,7 @@ function getTranscriptionRecordData(){ return[
         7796,
         "Samuel Rowley advises Henslowe to purchase 'Conquest of the Indies'",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32137,7 +32896,7 @@ function getTranscriptionRecordData(){ return[
         7797,
         "Samuel Rowley urges Philip Henslowe to pay authors of 'The Six Yeomen of the West'",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32151,7 +32910,7 @@ function getTranscriptionRecordData(){ return[
         7798,
         "Samuel Rowley urges Philip Henslowe to pay John Day and William Haughton",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32165,7 +32924,7 @@ function getTranscriptionRecordData(){ return[
         7799,
         "Robert Shaw advises Philip Henslowe to commission a play",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32179,7 +32938,7 @@ function getTranscriptionRecordData(){ return[
         7800,
         "Samuel Rowley writes to Philip Henslowe about the play 'John of Gaunt'",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32193,7 +32952,7 @@ function getTranscriptionRecordData(){ return[
         7551,
         "Henslowe and Alleyn pay the Master of the King's Game for permission to use Paris Garden for animal sports",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -32207,7 +32966,7 @@ function getTranscriptionRecordData(){ return[
         7802,
         "Patrick Brewe writes to Edward Alleyn about the land of the Fortune theatre",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32221,7 +32980,7 @@ function getTranscriptionRecordData(){ return[
         7803,
         "Patrick Brewe writes to Edward Alleyn about the sale of the Gill family property",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32235,7 +32994,7 @@ function getTranscriptionRecordData(){ return[
         7804,
         "Patrick Brewe writes Edward Alleyn for Fortune theatre ground-rent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32249,7 +33008,7 @@ function getTranscriptionRecordData(){ return[
         7697,
         "Thomas Yonge writes to Edward Alleyn and Philip Henslowe about the commission to acquire baiting animals",
         4481,
-        "DCA: MS 2",
+        "DC: MS 2",
         [
             403
         ],
@@ -32263,7 +33022,7 @@ function getTranscriptionRecordData(){ return[
         7805,
         "Robert Browne seeks employment for a player's wife from Alleyn",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32277,7 +33036,7 @@ function getTranscriptionRecordData(){ return[
         7806,
         "Nathan Field seeks bail from Philip Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32291,7 +33050,7 @@ function getTranscriptionRecordData(){ return[
         471,
         "Prince Charles' Men leave the Hope and ask Alleyn for a loan",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32305,7 +33064,7 @@ function getTranscriptionRecordData(){ return[
         7522,
         "The tenants of the Fortune are in arrears of their rent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             403
         ],
@@ -32319,21 +33078,7 @@ function getTranscriptionRecordData(){ return[
         7807,
         "Dulwich College petitions Lord Keeper regarding rent from tenants of the Fortune",
         4674,
-        "DCA: MS 1",
-        [
-            403
-        ],
-        []
-    ],
-    [
-        9497,
-        "98-9",
-        3813,
-        "The Alleyn Papers",
-        7808,
-        "A property survey describes the decay of the Fortune theatre",
-        3244,
-        "BL: Egerton MS 2623, f 32",
+        "DC: MS 1",
         [
             403
         ],
@@ -32563,21 +33308,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        9519,
-        "68",
-        4502,
-        "The Bankside Playhouses and Bear Gardens",
-        7825,
-        "John Allen leases the Beargarden property",
-        4666,
-        "TNA: LR2, 190",
-        [
-            2198,
-            1803
-        ],
-        []
-    ],
-    [
         9520,
         "68",
         4502,
@@ -32612,6 +33342,36 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        9525,
+        "68-9",
+        4502,
+        "The Bankside Playhouses and Bear Gardens",
+        7577,
+        "Thomas Burnaby leases a tenement and Bear Garden property to Richard Reve",
+        4498,
+        "TNA: C 146/8581",
+        [
+            2198,
+            1803
+        ],
+        []
+    ],
+    [
+        9526,
+        "69",
+        4502,
+        "The Bankside Playhouses and Bear Gardens",
+        7586,
+        "Chancery, Polsted vs Wistowe: Robert Wistowe is cited for nonpayment of rent for 'the bear yard'",
+        4504,
+        "TNA: C 3/139/4",
+        [
+            2198,
+            1803
+        ],
+        []
+    ],
+    [
         9527,
         "70",
         4502,
@@ -32627,6 +33387,21 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9528,
+        "71",
+        4502,
+        "The Bankside Playhouses and Bear Gardens",
+        401,
+        "Commissioners of the Sewers order Henslowe, Pope, and Napton to make repairs",
+        243,
+        "LMA: SKCS/018",
+        [
+            2198,
+            1803
+        ],
+        []
+    ],
+    [
         9529,
         "72",
         4502,
@@ -32635,6 +33410,21 @@ function getTranscriptionRecordData(){ return[
         "Commissioners of the Sewers order Edward Box to repair sewers near the Rose",
         243,
         "LMA: SKCS/018",
+        [
+            2198,
+            1803
+        ],
+        []
+    ],
+    [
+        9530,
+        "72",
+        4502,
+        "The Bankside Playhouses and Bear Gardens",
+        2604,
+        "The vestry of St Saviour's is to review Francis Langley's new tenements, and to solicit tithes from local playhouse owners",
+        1957,
+        "LMA: P92/Sav/450",
         [
             2198,
             1803
@@ -32749,22 +33539,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        9191,
-        "Plate XIII [p 46]",
-        4174,
-        "The Bankside Theatre: Early Engravings",
-        7625,
-        "Wenceslaus Hollar's 'Long View of London' offers images of the Globe and Bear Garden, with names interchanged",
-        4536,
-        "Long View of London",
-        [
-            1812
-        ],
-        [
-            1813
-        ]
-    ],
-    [
         6919,
         "47",
         2849,
@@ -32801,6 +33575,20 @@ function getTranscriptionRecordData(){ return[
         "Thomas Needler purchases part of the Boar's Head",
         2854,
         "TNA: C 54/2471/17",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6926,
+        "48",
+        2849,
+        "The Boar's Head Again",
+        6638,
+        "William Browne wills his income from the Boar's Head properties",
+        2855,
+        "LMA: DL/C/B/005/MS09172",
         [
             602
         ],
@@ -33448,7 +34236,22 @@ function getTranscriptionRecordData(){ return[
         448,
         "Boar's Head converted to tenements",
         283,
-        "Folger, MS Z.c.22(23)",
+        "Folger: MS Z.c.22(23)",
+        [
+            1281,
+            602
+        ],
+        []
+    ],
+    [
+        8961,
+        "81",
+        2847,
+        "The Boar's Head Playhouse",
+        6638,
+        "William Browne wills his income from the Boar's Head properties",
+        2855,
+        "LMA: DL/C/B/005/MS09172",
         [
             1281,
             602
@@ -35454,6 +36257,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        2906,
+        "50",
+        1639,
+        "The Children of Paul's",
+        6496,
+        "Raynold Chunnell, a bell ringer, has licence from Thomas Giles to occupy the little house in the lower shrouds: Richard Smythe",
+        1537,
+        "LMA: DL/B/A/MS09537/009",
+        [
+            348
+        ],
+        []
+    ],
+    [
         2909,
         "47\u20138",
         1639,
@@ -35552,6 +36369,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        2919,
+        "36",
+        1639,
+        "The Children of Paul's",
+        2807,
+        "The choir of St Paul's is excellent",
+        1537,
+        "LMA: DL/B/A/MS09537/009",
+        [
+            348
+        ],
+        []
+    ],
+    [
         2920,
         "28\u20139",
         1639,
@@ -35639,6 +36470,22 @@ function getTranscriptionRecordData(){ return[
             9,
             1284,
             658
+        ]
+    ],
+    [
+        2960,
+        "33",
+        1639,
+        "The Children of Paul's",
+        1909,
+        "Thomas Tusser remembers his days as a choir boy at St Paul's",
+        1210,
+        "Five Hundred Points of Good Husbandry",
+        [
+            348
+        ],
+        [
+            171
         ]
     ],
     [
@@ -35806,6 +36653,34 @@ function getTranscriptionRecordData(){ return[
         "The Conditions of Appointment for Masters of Choristers at Paul's (1553-1613)",
         6491,
         "William Creeke's lease on rooms in the almonry offers insight into the location of the playhouse",
+        2722,
+        "LMA: CLC/313/C/001/MS25630/004",
+        [
+            348
+        ],
+        []
+    ],
+    [
+        9849,
+        "121",
+        1673,
+        "The Conditions of Appointment for Masters of Choristers at Paul's (1553-1613)",
+        2804,
+        "Testimony in Bishop Bancroft's visitation of St Paul's describes the condition of the choristers",
+        1537,
+        "LMA: DL/B/A/MS09537/009",
+        [
+            348
+        ],
+        []
+    ],
+    [
+        9850,
+        "121",
+        1673,
+        "The Conditions of Appointment for Masters of Choristers at Paul's (1553-1613)",
+        2758,
+        "Edward Pearce is appointed Almoner and Master of the Choristers of St Paul's",
         2722,
         "LMA: CLC/313/C/001/MS25630/004",
         [
@@ -36193,6 +37068,22 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        9505,
+        "34",
+        4664,
+        "The Diary of Philip Henslowe, from 1591 to 1609",
+        7789,
+        "Guilpin describes Alleyn's 'gait' onstage",
+        4642,
+        "Epigram 43, 'Of Clodius'",
+        [
+            403
+        ],
+        [
+            61
+        ]
+    ],
+    [
         2102,
         "cxii",
         1294,
@@ -36466,38 +37357,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        2127,
-        "cxii",
-        1294,
-        "The Dramatic Works of Mr Philip Massinger",
-        2110,
-        "King's Men performed 'The Bashful Lover' at the Blackfriars",
-        1309,
-        "The Bashful Lover",
-        [
-            227
-        ],
-        [
-            227
-        ]
-    ],
-    [
-        2128,
-        "255",
-        1294,
-        "The Dramatic Works of Mr Philip Massinger",
-        2110,
-        "King's Men performed 'The Bashful Lover' at the Blackfriars",
-        1309,
-        "The Bashful Lover",
-        [
-            227
-        ],
-        [
-            227
-        ]
-    ],
-    [
         6977,
         "436 n.54",
         2876,
@@ -36529,6 +37388,22 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             180
+        ]
+    ],
+    [
+        1362,
+        "175-6",
+        783,
+        "The Earl of Strafforde's Letters and Dispatches",
+        1351,
+        "The privy council order on traffic around playhouses is being ignored: Garrard to Wentworth",
+        784,
+        "Sheffield Archives: WWM/Str P 15 (e) (332)",
+        [
+            135
+        ],
+        [
+            135
         ]
     ],
     [
@@ -36648,62 +37523,6 @@ function getTranscriptionRecordData(){ return[
         "Warwick's Men perform at Whitehall",
         599,
         "TNA: AO 1/382/15",
-        [
-            473
-        ],
-        []
-    ],
-    [
-        4809,
-        "151",
-        2294,
-        "The Elizabethan Stage",
-        4588,
-        "Warwick's Men perform at Hampton Court",
-        599,
-        "TNA: AO 1/382/15",
-        [
-            473
-        ],
-        []
-    ],
-    [
-        4819,
-        "154",
-        2294,
-        "The Elizabethan Stage",
-        4598,
-        "Warwick's Men perform at Richmond",
-        1990,
-        "TNA: E 351/541",
-        [
-            473
-        ],
-        []
-    ],
-    [
-        4820,
-        "154",
-        2294,
-        "The Elizabethan Stage",
-        4599,
-        "Leicester's Men perform at Richmond",
-        1990,
-        "TNA: E 351/541",
-        [
-            473
-        ],
-        []
-    ],
-    [
-        4825,
-        "155",
-        2294,
-        "The Elizabethan Stage",
-        4604,
-        "Warwick's Men perform at Whitehall",
-        1990,
-        "TNA: E 351/541",
         [
             473
         ],
@@ -36971,22 +37790,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        5135,
-        "251",
-        2294,
-        "The Elizabethan Stage",
-        2301,
-        "The Blind Beggar of Alexandria was performed by the Lord Admiral's Men",
-        1382,
-        "The Blind Beggar of Alexandria",
-        [
-            473
-        ],
-        [
-            263
-        ]
-    ],
-    [
         5166,
         "405",
         2294,
@@ -37076,6 +37879,22 @@ function getTranscriptionRecordData(){ return[
         "The King's Men performed 'Catiline'",
         1426,
         "Catiline",
+        [
+            473
+        ],
+        [
+            47
+        ]
+    ],
+    [
+        5269,
+        "370",
+        2294,
+        "The Elizabethan Stage",
+        2465,
+        "The title-page of Jonson's Epic\u0153ne claims it was 'first acted' by the Children of the Queen's Revels",
+        1425,
+        "Epicoene",
         [
             473
         ],
@@ -37250,6 +38069,22 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        5323,
+        "252",
+        2294,
+        "The Elizabethan Stage",
+        2302,
+        "The title-page of Chapman's 'Monsieur D'Olive' claims the play was performed at the Blackfriars",
+        1383,
+        "Monsieur d'Olive",
+        [
+            473
+        ],
+        [
+            263
+        ]
+    ],
+    [
         5380,
         "50",
         2294,
@@ -37346,6 +38181,22 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             68
+        ]
+    ],
+    [
+        5451,
+        "201",
+        2294,
+        "The Elizabethan Stage",
+        4077,
+        "An English-Italian phrase book uses the Bull as an example of a theatrical venue",
+        424,
+        "First Fruits",
+        [
+            473
+        ],
+        [
+            70
         ]
     ],
     [
@@ -37810,7 +38661,7 @@ function getTranscriptionRecordData(){ return[
         4707,
         "Queen Anne's Men play at Court",
         2349,
-        "Bodl.: Rawlinson MS A 204",
+        "Bodl: Rawlinson MS A 204",
         [
             473
         ],
@@ -38044,6 +38895,24 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9819,
+        "315",
+        4804,
+        "The End of Shakspere's Playhouses",
+        5431,
+        "A summary of theatres built in London: Edmund Howes",
+        5,
+        "Annals",
+        [
+            211
+        ],
+        [
+            9,
+            1284,
+            658
+        ]
+    ],
+    [
         9064,
         "44-6",
         3825,
@@ -38055,6 +38924,18 @@ function getTranscriptionRecordData(){ return[
         [
             1677
         ],
+        []
+    ],
+    [
+        9776,
+        "50",
+        4783,
+        "The English Drama and Stage under the Tudor and Stuart Princes 1543\u20131664",
+        648,
+        "King's Men receive a royal patent to perform at the Globe, Blackfriars, and elsewhere",
+        1846,
+        "TNA: PSO 2/40",
+        [],
         []
     ],
     [
@@ -39649,7 +40530,7 @@ function getTranscriptionRecordData(){ return[
         6553,
         "John Brayne dissatisfied with scaffolds built for the Red Lion; The Story of Sampson to be performed",
         280,
-        "LMA: 04329/1",
+        "LMA: CLC/L/CC/B/001/MS04329/001",
         [
             602
         ],
@@ -39696,7 +40577,7 @@ function getTranscriptionRecordData(){ return[
         59,
         "A Globe audience members describes a performance of 'The Witches of Lancashire'",
         37,
-        "Somerset Record Office, Taunton, DD/PH 212/no.12",
+        "SRO, Taunton: DD/PH 212/no.12",
         [
             602
         ],
@@ -39874,7 +40755,7 @@ function getTranscriptionRecordData(){ return[
         6602,
         "Requests, King's Men vs Brend: The date of the hearing is announced",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -39888,7 +40769,7 @@ function getTranscriptionRecordData(){ return[
         6600,
         "Requests, King's Men vs Brend: The court orders a hearing",
         2822,
-        "TNA, REQ 1/64",
+        "TNA: REQ 1/64",
         [
             602
         ],
@@ -39902,7 +40783,7 @@ function getTranscriptionRecordData(){ return[
         6601,
         "Requests, King's Men vs Brend: The commission is 'sett over till to morrow'",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -39916,7 +40797,7 @@ function getTranscriptionRecordData(){ return[
         6599,
         "Requests, King's Men vs Brend: The court issues orders for new lease",
         2824,
-        "TNA, REQ 1/157",
+        "TNA: REQ 1/157",
         [
             602
         ],
@@ -39930,7 +40811,7 @@ function getTranscriptionRecordData(){ return[
         6597,
         "Requests, King's Men vs Brend: The defendant is to perform a decree",
         2819,
-        "TNA, REQ 1/185",
+        "TNA: REQ 1/185",
         [
             602
         ],
@@ -39972,7 +40853,7 @@ function getTranscriptionRecordData(){ return[
         6593,
         "Requests, King's Men vs Brend: The new lease agreement is settled",
         2818,
-        "TNA, REQ 1/160",
+        "TNA: REQ 1/160",
         [
             602
         ],
@@ -39986,7 +40867,7 @@ function getTranscriptionRecordData(){ return[
         400,
         "Edward Alleyn pays the tithe due for the Rose",
         1,
-        "DCA: MS 9",
+        "DC: MS 9",
         [
             1
         ],
@@ -40000,7 +40881,7 @@ function getTranscriptionRecordData(){ return[
         7522,
         "The tenants of the Fortune are in arrears of their rent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1
         ],
@@ -40014,7 +40895,7 @@ function getTranscriptionRecordData(){ return[
         7523,
         "The King forbids theatres in London, and the Fortune tenants cannot pay their rent",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             1
         ],
@@ -40250,7 +41131,7 @@ function getTranscriptionRecordData(){ return[
         444,
         "George Wilson killed at Salisbury Court",
         279,
-        "LMA: 06538",
+        "LMA: P69/BRI/A/018/MS06547/002",
         [
             605
         ],
@@ -40371,6 +41252,20 @@ function getTranscriptionRecordData(){ return[
         "A letter justifies the prohibition against playgoing by secular priests of England",
         4715,
         "Folger: V.a.244, leaves 9-89",
+        [
+            1845
+        ],
+        []
+    ],
+    [
+        9621,
+        "46",
+        4032,
+        "The Jacobean Theatre through the Eyes of Catholic Clerics",
+        7876,
+        "Father Thomas Leke responds to the archpriest of England's prohibition against playgoing",
+        4714,
+        "Folger: V.a.244, leaves 4-9",
         [
             1845
         ],
@@ -40531,6 +41426,22 @@ function getTranscriptionRecordData(){ return[
         "The Fortune hosts the Spanish Ambassador: John Chamberlain",
         66,
         "TNA: SP 14/122, f 43",
+        [
+            555
+        ],
+        [
+            555
+        ]
+    ],
+    [
+        6034,
+        "22",
+        2546,
+        "The Letters of John Chamberlain",
+        99,
+        "The Fortune burns: John Chamberlain",
+        65,
+        "TNA: SP 14/124, f 92",
         [
             555
         ],
@@ -40744,7 +41655,7 @@ function getTranscriptionRecordData(){ return[
         103,
         "John Chamberlain to Alice Carleton: The new Globe playhouse is reported to be the fairest 'that ever was in England'",
         69,
-        "TNA, SP 14/77, f 107",
+        "TNA: SP 14/77, f 107",
         [
             555
         ],
@@ -40796,7 +41707,7 @@ function getTranscriptionRecordData(){ return[
         295,
         "The Chamberlain's Men are newly incorporated as the King's Men: the Patent",
         175,
-        "TNA: C 66/1608, m 4",
+        "TNA: C 66/1608",
         [
             97
         ],
@@ -41053,12 +41964,40 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        6802,
+        "131",
+        2769,
+        "The Noble Science",
+        6515,
+        "Robert Blisse plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
         6803,
         "129",
         2769,
         "The Noble Science",
         6516,
         "Valentine Longe plays his fencing scholar's prize at the Curtain",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6804,
+        "129",
+        2769,
+        "The Noble Science",
+        6517,
+        "John Davel plays his fencing scholar's prize at the Bull",
         339,
         "BL: Sloane MS 2530",
         [
@@ -41081,12 +42020,180 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        6806,
+        "127",
+        2769,
+        "The Noble Science",
+        6519,
+        "Thomas Noble plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6807,
+        "125",
+        2769,
+        "The Noble Science",
+        6520,
+        "John Grene plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6808,
+        "125",
+        2769,
+        "The Noble Science",
+        6521,
+        "William Mathewe plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6809,
+        "123",
+        2769,
+        "The Noble Science",
+        6522,
+        "William Deane plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6810,
+        "123",
+        2769,
+        "The Noble Science",
+        6523,
+        "Francis Calvert plays his fencing scholar's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6811,
+        "121",
+        2769,
+        "The Noble Science",
+        6524,
+        "Robert Dorington plays his scholar's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6812,
+        "121",
+        2769,
+        "The Noble Science",
+        6525,
+        "David Locher plays his scholar's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6813,
+        "121",
+        2769,
+        "The Noble Science",
+        6526,
+        "William Wilks plays his scholar's prize in fencing at the Bell Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6814,
+        "71",
+        2769,
+        "The Noble Science",
+        6527,
+        "Thomas Norris plays his provost's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6815,
+        "69",
+        2769,
+        "The Noble Science",
+        6528,
+        "John Norres plays his provost's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6816,
+        "69",
+        2769,
+        "The Noble Science",
+        6529,
+        "James Cranydge plays his fencing provost's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
         6817,
         "67",
         2769,
         "The Noble Science",
         6530,
         "John Harris plays his fencing provost's prize at the Curtain",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6818,
+        "67",
+        2769,
+        "The Noble Science",
+        6531,
+        "George Mucklow plays his fencing provost's prize at the Bull",
         339,
         "BL: Sloane MS 2530",
         [
@@ -41165,12 +42272,138 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        6824,
+        "63",
+        2769,
+        "The Noble Science",
+        6537,
+        "William Wilks plays his provost's fencing prize at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6825,
+        "63",
+        2769,
+        "The Noble Science",
+        6538,
+        "Gregory Grene plays his fencing provost's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6826,
+        "63",
+        2769,
+        "The Noble Science",
+        6539,
+        "John Blinkinsop plays his fencing provost's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6827,
+        "63",
+        2769,
+        "The Noble Science",
+        512,
+        "Isaac Kennard plays his fencing provost's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6828,
+        "61",
+        2769,
+        "The Noble Science",
+        6541,
+        "Richard Smythe plays his provost's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6829,
+        "55",
+        2769,
+        "The Noble Science",
+        6542,
+        "John Mathewes plays his master's prize in fencing at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6830,
+        "55",
+        2769,
+        "The Noble Science",
+        6543,
+        "James Cranydge plays his master's fencing prize at the Bel Savage",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
         6831,
         "53",
         2769,
         "The Noble Science",
         6544,
         "Andrew Bello plays his fencing master's prize at the Theatre",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6832,
+        "51",
+        2769,
+        "The Noble Science",
+        6545,
+        "John Devell plays his fencing master's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6833,
+        "51",
+        2769,
+        "The Noble Science",
+        6546,
+        "Valentine Longe plays his fencing master's prize at the Bull",
         339,
         "BL: Sloane MS 2530",
         [
@@ -41193,6 +42426,62 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        6835,
+        "49",
+        2769,
+        "The Noble Science",
+        6548,
+        "Robert Blysse plays his fencing master's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6836,
+        "49",
+        2769,
+        "The Noble Science",
+        6549,
+        "Richard Fletcher plays his fencing master's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6837,
+        "47",
+        2769,
+        "The Noble Science",
+        6550,
+        "Isaac Kennard plays his fencing master's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6838,
+        "47",
+        2769,
+        "The Noble Science",
+        6551,
+        "John Goodwen plays his fencing master's prize at the Bull",
+        339,
+        "BL: Sloane MS 2530",
+        [
+            602
+        ],
+        []
+    ],
+    [
         6724,
         "24",
         2720,
@@ -41206,6 +42495,23 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             171
+        ]
+    ],
+    [
+        7519,
+        "285",
+        3130,
+        "The Origin of the English Drama",
+        7212,
+        "The Gentlemen of the Inner Temple performed Gorboduc for the Queen",
+        499,
+        "Gorboduc",
+        [
+            644
+        ],
+        [
+            124,
+            122
         ]
     ],
     [
@@ -41275,6 +42581,50 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        9570,
+        "204\u20135",
+        4684,
+        "The Pictured Playhouse: Reading the Utrecht Engraving of Shakespeare's London",
+        7869,
+        "The 'View of the Cittye of London' depicts a playhouse which may be the Theatre",
+        4685,
+        "The View of the Cittye of London from the North towards the Sowth",
+        [
+            2528
+        ],
+        []
+    ],
+    [
+        9571,
+        "212",
+        4684,
+        "The Pictured Playhouse: Reading the Utrecht Engraving of Shakespeare's London",
+        7869,
+        "The 'View of the Cittye of London' depicts a playhouse which may be the Theatre",
+        4685,
+        "The View of the Cittye of London from the North towards the Sowth",
+        [
+            2528
+        ],
+        []
+    ],
+    [
+        9572,
+        "218",
+        4684,
+        "The Pictured Playhouse: Reading the Utrecht Engraving of Shakespeare's London",
+        7542,
+        "The map of London printed in John Norden's 1593 'Speculum Britanniae' offers views of the Bear Garden and Rose Theatre",
+        4175,
+        "London",
+        [
+            2528
+        ],
+        [
+            1961
+        ]
+    ],
+    [
         9573,
         "219",
         4684,
@@ -41287,22 +42637,6 @@ function getTranscriptionRecordData(){ return[
             2528
         ],
         []
-    ],
-    [
-        9575,
-        "223",
-        4684,
-        "The Pictured Playhouse: Reading the Utrecht Engraving of Shakespeare's London",
-        7625,
-        "Wenceslaus Hollar's 'Long View of London' offers images of the Globe and Bear Garden, with names interchanged",
-        4536,
-        "Long View of London",
-        [
-            2528
-        ],
-        [
-            1813
-        ]
     ],
     [
         9576,
@@ -41319,6 +42653,20 @@ function getTranscriptionRecordData(){ return[
         [
             1813
         ]
+    ],
+    [
+        8620,
+        "301-6",
+        3687,
+        "The Plague, the Theater, and the Poet",
+        114,
+        "Requests, Salisbury Court vs Brome: Richard Brome responds to the charges",
+        1599,
+        "TNA: Req 2/723",
+        [
+            1283
+        ],
+        []
     ],
     [
         8621,
@@ -41433,6 +42781,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        2660,
+        "223",
+        1473,
+        "The Playhouse as an Investment, 1607-1614",
+        177,
+        "Requests, Trevell vs Cooke et al: Cooke deposes",
+        97,
+        "TNA: REQ 2/414",
+        [
+            281
+        ],
+        []
+    ],
+    [
         2661,
         "214\u201317",
         1473,
@@ -41441,6 +42803,20 @@ function getTranscriptionRecordData(){ return[
         "Chancery, Woodford vs Strood et al: Court documents provide details of the Whitefriars lease and ownership",
         1480,
         "TNA: C 2/JasI/W11/21",
+        [
+            281
+        ],
+        []
+    ],
+    [
+        2662,
+        "213-14",
+        1473,
+        "The Playhouse as an Investment, 1607-1614",
+        113,
+        "Requests, Trevell vs Woodford: The court judges",
+        78,
+        "TNA: REQ 1/37",
         [
             281
         ],
@@ -41601,6 +42977,20 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9184,
+        "393",
+        4105,
+        "The Playhouse at Newington Butts: A New Proposal",
+        7313,
+        "Requests, Savage vs Hickes and Honingborne: Richard Hickes replies",
+        101,
+        "TNA: Req 2/266/8",
+        [
+            281
+        ],
+        []
+    ],
+    [
         9185,
         "395, n20",
         4105,
@@ -41683,6 +43073,24 @@ function getTranscriptionRecordData(){ return[
             592
         ],
         []
+    ],
+    [
+        6733,
+        "71",
+        2723,
+        "The Playhouse of the Choristers of St Paul's, c. 1575-1608",
+        5431,
+        "A summary of theatres built in London: Edmund Howes",
+        5,
+        "Annals",
+        [
+            592
+        ],
+        [
+            9,
+            1284,
+            658
+        ]
     ],
     [
         6736,
@@ -41770,7 +43178,7 @@ function getTranscriptionRecordData(){ return[
         7436,
         "Robert Daborne solicits payment from Philip Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             184
         ],
@@ -41800,7 +43208,7 @@ function getTranscriptionRecordData(){ return[
         472,
         "Lady Elizabeth's Men write articles of oppression against Henslowe",
         4674,
-        "DCA: MS 1",
+        "DC: MS 1",
         [
             184
         ],
@@ -41868,6 +43276,22 @@ function getTranscriptionRecordData(){ return[
         ],
         [
             79
+        ]
+    ],
+    [
+        1978,
+        "384",
+        1226,
+        "The Political Use of the Stage in Shakspere's Time",
+        779,
+        "John Lyly and Thomas Nashe reputedly write libellous plays",
+        436,
+        "An Advertisement for Pap-Hatchet and Martin Marprelate",
+        [
+            174
+        ],
+        [
+            64
         ]
     ],
     [
@@ -42029,7 +43453,35 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9580,
+        "143",
+        4695,
+        "The Privileged Playgoers of Shakespeare's London, 1576-1642",
+        7676,
+        "The Archpriest of England prohibits clergy from attending public playhouses",
+        4579,
+        "Folger: V.a.244, leaves 1-3",
+        [
+            2536
+        ],
+        []
+    ],
+    [
         6936,
+        "153",
+        2858,
+        "The Profession of Player in Shakespeare's Time, 1590-1642",
+        6649,
+        "John Heminges must satisfy Henry Jenkins from sharer Richard Sharpe's profits",
+        1034,
+        "TNA: LC 5/183",
+        [
+            605
+        ],
+        []
+    ],
+    [
+        6937,
         "153",
         2858,
         "The Profession of Player in Shakespeare's Time, 1590-1642",
@@ -42734,7 +44186,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             232
         ],
@@ -43824,7 +45276,7 @@ function getTranscriptionRecordData(){ return[
         458,
         "Henslowe and Meade contract with Katherens to build the Hope theatre",
         292,
-        "DCA: Muniment Series 1, Group 49",
+        "DC: Muniment Series 1, Group 49",
         [
             1825
         ],
@@ -43873,6 +45325,70 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9258,
+        "197",
+        3914,
+        "The Shakespearian Playing Companies",
+        868,
+        "Queen's Men are formed; Tarlton and Wilson are founding players",
+        483,
+        "Annals",
+        [
+            1717
+        ],
+        [
+            9,
+            1284,
+            658
+        ]
+    ],
+    [
+        9259,
+        "305",
+        3914,
+        "The Shakespearian Playing Companies",
+        783,
+        "A 'Hamlet' is performed at the Theatre",
+        438,
+        "Wit's Misery",
+        [
+            1717
+        ],
+        [
+            82
+        ]
+    ],
+    [
+        9260,
+        "372",
+        3914,
+        "The Shakespearian Playing Companies",
+        7677,
+        "Middleton: The death of Burbage 'hath made a visible eclipse of playing'",
+        4580,
+        "BL: Egerton MS 2592",
+        [
+            1717
+        ],
+        [
+            32
+        ]
+    ],
+    [
+        9261,
+        "448",
+        3914,
+        "The Shakespearian Playing Companies",
+        689,
+        "Dr Lambe is assaulted following a play at the Fortune",
+        396,
+        "The Notorious Life of John Lamb",
+        [
+            1717
+        ],
+        []
+    ],
+    [
         9405,
         "244",
         4207,
@@ -43901,20 +45417,6 @@ function getTranscriptionRecordData(){ return[
         "BL: Harley MS 7002",
         [
             309
-        ],
-        []
-    ],
-    [
-        9522,
-        "90",
-        4629,
-        "The Site of the Globe Playhouse, Southwark",
-        7827,
-        "Bishop of Winchester demises Barge, Bell, and Cock properties to William Payne",
-        4668,
-        "TNA: Ancient Deeds, A12582",
-        [
-            2417
         ],
         []
     ],
@@ -43968,7 +45470,7 @@ function getTranscriptionRecordData(){ return[
         7834,
         "The Globe property is mortgaged to Matthew Browne, John Collett, and John Bodley",
         3724,
-        "TNA: C54/1722",
+        "TNA: C 54/1722",
         [
             2417
         ],
@@ -44008,7 +45510,7 @@ function getTranscriptionRecordData(){ return[
         4775,
         "The Spanish Protest Against 'A Game at Chesse'",
         55,
-        "Spanish ambassador reports on 'A Game at Chess' controversy ",
+        "Spanish ambassador reports on 'A Game at Chess' controversy",
         354,
         "Biblioteca Nacional, Madrid, MS 18 203",
         [
@@ -44023,7 +45525,7 @@ function getTranscriptionRecordData(){ return[
         4775,
         "The Spanish Protest Against 'A Game at Chesse'",
         55,
-        "Spanish ambassador reports on 'A Game at Chess' controversy ",
+        "Spanish ambassador reports on 'A Game at Chess' controversy",
         354,
         "Biblioteca Nacional, Madrid, MS 18 203",
         [
@@ -44053,7 +45555,7 @@ function getTranscriptionRecordData(){ return[
         4775,
         "The Spanish Protest Against 'A Game at Chesse'",
         55,
-        "Spanish ambassador reports on 'A Game at Chess' controversy ",
+        "Spanish ambassador reports on 'A Game at Chess' controversy",
         354,
         "Biblioteca Nacional, Madrid, MS 18 203",
         [
@@ -44089,6 +45591,20 @@ function getTranscriptionRecordData(){ return[
         [
             2763,
             2764
+        ],
+        []
+    ],
+    [
+        6846,
+        "164\u20136",
+        2789,
+        "The Stage and Boxes at Blackfriars",
+        289,
+        "Pory to Scudamore: Captain Essex and Lord Thurles quarrel at the Blackfriars",
+        169,
+        "TNA: C 115/106",
+        [
+            602
         ],
         []
     ],
@@ -44275,28 +45791,14 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        1350,
-        "342 n3",
+        1355,
+        "341 n3",
         712,
         "The Swan Theatre and the Earl of  Pembroke's Servants",
-        1339,
-        "Francis Langley aquires the manor of Paris Garden for \u00a3850",
-        4560,
-        "Francis Langley's deed for the purchase of Paris Garden",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1354,
-        "393 n2",
-        712,
-        "The Swan Theatre and the Earl of  Pembroke's Servants",
-        1343,
-        "The Manor House at Paris Garden is known as 'Holland's Leaguer'",
-        4561,
-        "a deed of bargain and sale",
+        1344,
+        "Thomas Cure the Younger is assigned the reversion of the manor of Paris Garden",
+        31,
+        "-No MS Reference-",
         [
             1366
         ],
@@ -44351,6 +45853,20 @@ function getTranscriptionRecordData(){ return[
         "The Swan Theatre and the Earl of  Pembroke's Servants",
         7650,
         "The Swan pays \u00a35 3s 4d to the Overseers of the Poor of Paris Garden",
+        773,
+        "BL: Add MS 34110",
+        [
+            1366
+        ],
+        []
+    ],
+    [
+        9233,
+        "390 n1",
+        712,
+        "The Swan Theatre and the Earl of  Pembroke's Servants",
+        7651,
+        "The Swan pays \u00a35 5s to the Overseers of the Poor of Paris Garden",
         773,
         "BL: Add MS 34110",
         [
@@ -44773,6 +46289,54 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        1936,
+        "308",
+        1202,
+        "The Works of Gabriel Harvey",
+        697,
+        "The Swan hosts an extempore versifying contest",
+        403,
+        "Palladis Tamia",
+        [
+            64
+        ],
+        [
+            53
+        ]
+    ],
+    [
+        7599,
+        "131",
+        1202,
+        "The Works of Gabriel Harvey",
+        779,
+        "John Lyly and Thomas Nashe reputedly write libellous plays",
+        436,
+        "An Advertisement for Pap-Hatchet and Martin Marprelate",
+        [
+            64
+        ],
+        [
+            64
+        ]
+    ],
+    [
+        7600,
+        "213",
+        1202,
+        "The Works of Gabriel Harvey",
+        779,
+        "John Lyly and Thomas Nashe reputedly write libellous plays",
+        436,
+        "An Advertisement for Pap-Hatchet and Martin Marprelate",
+        [
+            64
+        ],
+        [
+            64
+        ]
+    ],
+    [
         6984,
         "A1a",
         2877,
@@ -45161,38 +46725,6 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
-        2160,
-        "ix",
-        1310,
-        "The Works of Philip Massinger",
-        2110,
-        "King's Men performed 'The Bashful Lover' at the Blackfriars",
-        1309,
-        "The Bashful Lover",
-        [
-            227
-        ],
-        [
-            227
-        ]
-    ],
-    [
-        2161,
-        "255",
-        1310,
-        "The Works of Philip Massinger",
-        2110,
-        "King's Men performed 'The Bashful Lover' at the Blackfriars",
-        1309,
-        "The Bashful Lover",
-        [
-            227
-        ],
-        [
-            227
-        ]
-    ],
-    [
         2850,
         "118-20",
         1612,
@@ -45200,7 +46732,7 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45214,7 +46746,7 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45228,7 +46760,7 @@ function getTranscriptionRecordData(){ return[
         2742,
         "London Consistory, Newton vs Waters: Addison deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45242,7 +46774,7 @@ function getTranscriptionRecordData(){ return[
         2743,
         "London Consistory, Newton vs Waters: Hattrell deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45256,7 +46788,7 @@ function getTranscriptionRecordData(){ return[
         2745,
         "London Consistory, Newton vs Waters: Duke deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45270,7 +46802,7 @@ function getTranscriptionRecordData(){ return[
         2747,
         "London Consistory, Newton vs Waters: Waters responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45284,7 +46816,7 @@ function getTranscriptionRecordData(){ return[
         2742,
         "London Consistory, Newton vs Waters: Addison deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45298,7 +46830,7 @@ function getTranscriptionRecordData(){ return[
         2750,
         "London Consistory, Newton vs Waters: Newton responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45312,7 +46844,7 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45326,7 +46858,7 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45340,7 +46872,7 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45354,7 +46886,7 @@ function getTranscriptionRecordData(){ return[
         2748,
         "London Consistory, Newton vs Waters: Hackleton deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45368,7 +46900,7 @@ function getTranscriptionRecordData(){ return[
         2745,
         "London Consistory, Newton vs Waters: Duke deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45382,7 +46914,7 @@ function getTranscriptionRecordData(){ return[
         2747,
         "London Consistory, Newton vs Waters: Waters responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45396,7 +46928,7 @@ function getTranscriptionRecordData(){ return[
         2747,
         "London Consistory, Newton vs Waters: Waters responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45410,7 +46942,7 @@ function getTranscriptionRecordData(){ return[
         2750,
         "London Consistory, Newton vs Waters: Newton responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45424,7 +46956,7 @@ function getTranscriptionRecordData(){ return[
         2745,
         "London Consistory, Newton vs Waters: Duke deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45438,7 +46970,7 @@ function getTranscriptionRecordData(){ return[
         2743,
         "London Consistory, Newton vs Waters: Hattrell deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45452,7 +46984,7 @@ function getTranscriptionRecordData(){ return[
         2742,
         "London Consistory, Newton vs Waters: Addison deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45466,7 +46998,7 @@ function getTranscriptionRecordData(){ return[
         2742,
         "London Consistory, Newton vs Waters: Addison deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45480,7 +47012,7 @@ function getTranscriptionRecordData(){ return[
         2745,
         "London Consistory, Newton vs Waters: Duke deposes",
         1616,
-        "LMA: DL/C/220",
+        "LMA: DL/C/0220",
         [
             345
         ],
@@ -45494,7 +47026,7 @@ function getTranscriptionRecordData(){ return[
         2742,
         "London Consistory, Newton vs Waters: Addison deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45508,7 +47040,7 @@ function getTranscriptionRecordData(){ return[
         2747,
         "London Consistory, Newton vs Waters: Waters responds",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
         ],
@@ -45522,9 +47054,23 @@ function getTranscriptionRecordData(){ return[
         2740,
         "London Consistory, Newton vs Waters: Ireland deposes",
         1613,
-        "LMA: DL/C/219",
+        "LMA: DL/C/0219",
         [
             345
+        ],
+        []
+    ],
+    [
+        9802,
+        "118",
+        4794,
+        "Third Report of the Royal Commission on Historical Manuscripts",
+        538,
+        "The Queen has lately attended a play at the Blackfriars",
+        356,
+        "Alnwick Castle: MS 506/132",
+        [
+            2989
         ],
         []
     ],
@@ -45587,104 +47133,6 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
-        1296,
-        "296-7 [10-11]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1285,
-        "Requests, Woodford vs Holland: The court orders Holland to appear and answer the complaint",
-        737,
-        "TNA: Req 2/26",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1297,
-        "302-3 [16-17]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1286,
-        "Requests, Woodford vs Holland: Holland and his lawyer are served court orders, but refuse to grant Woodford his lease",
-        738,
-        "TNA: Req 1/128",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1298,
-        "302 [16]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1287,
-        "Requests, Woodford vs Holland: the court orders the arrest of Holland",
-        740,
-        "TNA: Req 1/183",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1299,
-        "302 [16]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1288,
-        "Requests, Woodford vs Holland: the court enjoins Holland to perform the order of the court",
-        740,
-        "TNA: Req 1/183",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1300,
-        "300-2 [14-16]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1289,
-        "Requests, Woodford vs Holland: the court orders Holland to grant Woodford a new lease",
-        737,
-        "TNA: Req 2/26",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1301,
-        "298 [12]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1290,
-        "Requests, Woodford vs Holland: Holland ordered to appear",
-        737,
-        "TNA: Req 2/26",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1302,
-        "297-8 [11-12]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1291,
-        "Requests, Woodford vs Holland: the court sends the suit to arbitration",
-        737,
-        "TNA: Req 2/26",
-        [
-            1366
-        ],
-        []
-    ],
-    [
         1304,
         "315 [28]",
         734,
@@ -45693,20 +47141,6 @@ function getTranscriptionRecordData(){ return[
         "Requests, Woodford vs Holland: Holland appears in court, case is dropped",
         745,
         "TNA: REQ 1/110",
-        [
-            1366
-        ],
-        []
-    ],
-    [
-        1305,
-        "312-14 [26-8]",
-        734,
-        "Three London Theatres of Shakespeare's Time",
-        1294,
-        "Requests, Woodford vs Holland: Holland's answer",
-        746,
-        "TNA: Req 2/411/148",
         [
             1366
         ],
@@ -45762,7 +47196,7 @@ function getTranscriptionRecordData(){ return[
         420,
         "A petition is made to the Earl of Dorset concerning the lease of Salisbury Court",
         261,
-        "KAO, Maidstone: U2269/E136/1",
+        "KAO, Maidstone: U269/E136",
         [
             205
         ],
@@ -45841,6 +47275,20 @@ function getTranscriptionRecordData(){ return[
         "William Creeke's lease on rooms in the almonry offers insight into the location of the playhouse",
         2722,
         "LMA: CLC/313/C/001/MS25630/004",
+        [
+            602
+        ],
+        []
+    ],
+    [
+        6781,
+        "112",
+        2755,
+        "Where Was the Playhouse in which the Boy Choristers of St Paul's Performed Plays?",
+        6494,
+        "Details from the St Paul's almonry leases offer insight into the layout of the buildings on the cathedral property",
+        2761,
+        "LMA: CLC/313/C/001/MS25630/003",
         [
             602
         ],
@@ -46037,6 +47485,70 @@ function getTranscriptionRecordData(){ return[
         []
     ],
     [
+        9586,
+        "95",
+        4696,
+        "Who Strutted and Bellowed?",
+        4352,
+        "Carew insults the players of the Red Bull and Cockpit as an 'untuned kennel'",
+        2203,
+        "To M. d'Avenant",
+        [
+            1717
+        ],
+        [
+            440
+        ]
+    ],
+    [
+        9587,
+        "96",
+        4696,
+        "Who Strutted and Bellowed?",
+        5944,
+        "Nashe praises Edward Alleyn and other players",
+        1283,
+        "Pierce Penniless, His Supplication to the Devil",
+        [
+            1717
+        ],
+        [
+            79
+        ]
+    ],
+    [
+        9589,
+        "99",
+        4696,
+        "Who Strutted and Bellowed?",
+        7789,
+        "Guilpin describes Alleyn's 'gait' onstage",
+        4642,
+        "Epigram 43, 'Of Clodius'",
+        [
+            1717
+        ],
+        [
+            61
+        ]
+    ],
+    [
+        9591,
+        "101",
+        4696,
+        "Who Strutted and Bellowed?",
+        3445,
+        "Letoy in 'The Antipodes' complains about extemporizing actors",
+        1907,
+        "The Antipodes",
+        [
+            1717
+        ],
+        [
+            258
+        ]
+    ],
+    [
         4675,
         "65-6",
         2268,
@@ -46161,6 +47673,22 @@ function getTranscriptionRecordData(){ return[
         ]
     ],
     [
+        4720,
+        "74",
+        2268,
+        "William Shakespeare",
+        2454,
+        "The 1616 Works edition of Jonson's The Alchemist includes the cast list for the original performance by the Children of the Queen's Revels",
+        1442,
+        "The Alchemist",
+        [
+            473
+        ],
+        [
+            47
+        ]
+    ],
+    [
         4731,
         "232-4",
         2268,
@@ -46200,7 +47728,7 @@ function getTranscriptionRecordData(){ return[
         7946,
         "Dr Thomas Ryves to the Bishop of Meath: The play of Gondomar plays twice daily, and draws unprecedented crowds",
         4740,
-        "Bodl, MS Rawlinson 89, f 42",
+        "Bodl: MS Rawlinson 89, f 42",
         [
             2715
         ],

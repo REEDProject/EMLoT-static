@@ -83,10 +83,6 @@
 	<a href="../index.html">Search the database</a>
 	
 </li>
-<li class="child">
-	<a href="../../trackabear/index.html">How to Track a Bear in Southwark</a>
-	
-</li>
 
 <li class="child">
 	<a href="../../project-information/index.html">Project Information</a>
@@ -182,7 +178,6 @@
     
 <h3>Keyword Search</h3>
 <form id="search_form" action="javascript:doquerying()" class="fms">
-  <input type='hidden' name='csrfmiddlewaretoken' value='RQU5hl5uRcgE7QdzlKpdt0THkvT67nh5RhHHpAXLOVupwcrtj4UYR2rSP8qnbWrr' />
   <fieldset class="i1">
     <label for="bs_input">
       
@@ -191,7 +186,7 @@
     </label>
     <input id="bs_input" type="text" name="query" />
     <button type="submit">Go</button>
-    <button type="reset" id="reset_search" onclick="init()">Reset</button>
+    <button id="reset_search" onclick="resetks()">Reset</button>
   </fieldset>
 
   <fieldset class="i2">
@@ -230,18 +225,7 @@
       
     </ul>
   </fieldset>
-
-  <fieldset>
-    <input type="hidden" name="ordering" id="active_ordering" value="default" />
-  </fieldset>
 </form>
-
-<!-- div class="fancyview">
-  <h4>You recently searched for:<a href="javascript:toggle_historypanel();" class="t9 01" title="Reload">reload</a></h4> <br />
-  <ul id="ksearch_history">
-    
-  </ul>
-</div -->
 
   </div>
 </div>

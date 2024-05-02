@@ -13,7 +13,7 @@ Cufon.replace('.ct h2');
 //
 
 function AddTips() {
-    $.get("../../static/xml/search_tips.xml", function(data) {
+    $.get("/static/xml/search_tips.xml", function(data) {
         $("tip", data).each(function() {
             var labelID = $(this).attr("id");
            // alert("ID = " + labelID);

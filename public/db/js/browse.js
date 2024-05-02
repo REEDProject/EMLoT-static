@@ -235,11 +235,11 @@ function openCloseFacet(lnk, lvl, facet){
 // to support data startup and Cufon fonts:
 
 addEventListener("load", (event) => {
+	Cufon.replace('.nvg a', {fontSize: '16px'});
+	Cufon.replace('.nvl a', {fontSize: '14px'});
+
 	init();
 
 	setupHelp();
-
-	Cufon.replace('.nvg a', {fontSize: '16px'});
-	Cufon.replace('.nvl a', {fontSize: '14px'});
 });
 

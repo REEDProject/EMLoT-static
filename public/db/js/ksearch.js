@@ -8,7 +8,10 @@ let fuse = null;
 	
 function doquerying(){
 	let queryText = document.getElementById("bs_input").value.trim();
-	if(queryText.length == 0)return;
+	if(queryText.length == 0){
+		init();
+		return;
+	}
 	let frslt = fuse.search(queryText);
 	let rslt = []
 	frslt.forEach(dta => {
@@ -32,6 +35,11 @@ function setup(itemType, theList, itemNo, noCols){
     		{ name: 'text', getFn: (item) => item[fuseDataItem] }]
 	};
 	fuse = new Fuse(theList, fuseOptions);
+}
+
+function resetks(){
+   document.getElementById("bs_input").value = "";
+   init();
 }
 
 
