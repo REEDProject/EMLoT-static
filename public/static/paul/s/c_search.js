@@ -91,9 +91,9 @@ $(document).ready(function() {
 	
 	
 	// give behaviour to RESET button
-	$("#reset_search").click(function ()  {
-		window.location = "/db/search";
-	});
+	// $("#reset_search").click(function ()  {
+	// 		window.location = "/db/search";
+	// });
 	
 	
 	// load my own tab-change events
